@@ -136,11 +136,60 @@ def markdown_to_html(md_file, html_file):
         strong {{
             font-weight: 600;
         }}
+
+        .update-bar {{
+            position: fixed;
+            bottom: 0;
+            left: 0;
+            right: 0;
+            background: var(--card-bg);
+            border-top: 1px solid #e2e8f0;
+            padding: 0.75rem 1rem;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            gap: 1rem;
+            box-shadow: 0 -2px 8px rgb(0 0 0 / 0.08);
+            z-index: 100;
+        }}
+
+        .update-bar span {{
+            color: var(--text-muted);
+            font-size: 0.85rem;
+        }}
+
+        .update-btn {{
+            display: inline-flex;
+            align-items: center;
+            gap: 0.4rem;
+            background-color: #059669;
+            color: white;
+            padding: 0.5rem 1.2rem;
+            text-decoration: none;
+            border-radius: 6px;
+            font-weight: 500;
+            font-size: 0.9rem;
+            transition: background-color 0.2s;
+        }}
+
+        .update-btn:hover {{
+            background-color: #047857;
+        }}
+
+        .container {{
+            padding-bottom: 4rem;
+        }}
     </style>
 </head>
 <body>
     <div class="container">
         {html_body}
+    </div>
+    <div class="update-bar">
+        <span>Data not fresh?</span>
+        <a href="https://github.com/Bluntboy101/job-hunter-site/actions/workflows/daily-update.yml" target="_blank" class="update-btn">
+            &#x21bb; Update Now
+        </a>
     </div>
 </body>
 </html>"""
