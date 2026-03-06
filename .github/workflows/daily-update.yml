@@ -1,0 +1,70 @@
+name: Daily Job Hunter Update
+
+on:
+  schedule:
+    # Run every day at 7:00 AM UK time (GMT/BST)
+    # UTC 07:00 covers BST; in winter (GMT) this runs at 7am UTC = 7am UK
+    # In summer (BST, UTC+1) this runs at 8am UK time
+    # Adjust to "0 6 * * *" if you want 7am BST (summer) / 6am GMT (winter)
+    - cron: '0 7 * * *'
+  workflow_dispatch: # Allow manual trigger from GitHub UI
+
+permissions:
+  contents: write
+
+jobs:
+  update-jobs:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.13'
+
+      - name: Create temp directory
+        run: mkdir -p .tmp
+
+      - name: Scrape jobs
+        env:
+          RAPIDAPI_KEY: ${{ secrets.RAPIDAPI_KEY }}
+        run: |
+          python scripts/scrape_jobs.py \
+            --query "Copywriter" \
+            --location "Remote" \
+            --pages 3 \
+            --output .tmp/raw_jobs.json
+
+      - name: Evaluate jobs
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+        run: |
+          python scripts/evaluate_jobs.py \
+            --jobs .tmp/raw_jobs.json \
+            --cv references/CV \
+            --needs references/NEEDS.md \
+            --output .tmp/evaluated_jobs.json
+
+      - name: Generate report
+        run: |
+          python scripts/generate_report.py \
+            --input .tmp/evaluated_jobs.json \
+            --output .tmp/job_report.md \
+            --history data/historical_jobs.json
+
+      - name: Publish HTML
+        run: |
+          python scripts/publish_html.py \
+            --input .tmp/job_report.md \
+            --output index.html
+
+      - name: Commit and push updated data
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add index.html data/historical_jobs.json
+          git diff --staged --quiet || git commit -m "Auto-update job report: $(date -u +'%Y-%m-%d %H:%M UTC')"
+          git push
