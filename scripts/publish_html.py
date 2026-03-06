@@ -194,7 +194,9 @@ def markdown_to_html(md_file, html_file):
 </body>
 </html>"""
 
-    os.makedirs(os.path.dirname(html_file), exist_ok=True)
+    output_dir = os.path.dirname(html_file)
+    if output_dir:
+        os.makedirs(output_dir, exist_ok=True)
     with open(html_file, 'w') as f:
         f.write(full_html)
         
