@@ -44,13 +44,14 @@ def evaluate_jobs(jobs, cv_path, needs):
     evaluated_jobs = []
     
     import urllib.request
+    import urllib.error
     import time
     
     for idx, job in enumerate(jobs):
-        # Respect Gemini 15 RPM free tier limit
+        # Respect Gemini free tier limit (15 RPM)
         if idx > 0:
-            time.sleep(4)
-            
+            time.sleep(6)
+
         title = job.get('job_title', 'Unknown Title')
         company = job.get('employer_name', 'Unknown Company')
         desc = job.get('job_description', '')
@@ -82,36 +83,46 @@ def evaluate_jobs(jobs, cv_path, needs):
         }
         
         gemini_url = f"https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent?key={api_key}"
-        
-        req = urllib.request.Request(
-            gemini_url, 
-            data=json.dumps(payload_data).encode('utf-8'), 
-            headers={'Content-Type': 'application/json'}
-        )
-        
-        try:
-            with urllib.request.urlopen(req) as response:
-                if response.status == 200:
-                    resp_json = json.loads(response.read().decode('utf-8'))
-                    text_resp = resp_json['candidates'][0]['content']['parts'][0]['text']
-                    
-                    try:
-                        eval_data_list = json.loads(text_resp)
-                        if isinstance(eval_data_list, list) and len(eval_data_list) > 0:
-                            eval_data = eval_data_list[0]
-                        else:
-                            eval_data = eval_data_list
-                            
-                        job['fit_score'] = eval_data.get('fit_score', 0)
-                        job['evaluation_reason'] = eval_data.get('reasoning', 'No reasoning provided.')
-                        evaluated_jobs.append(job)
-                        print(f"[INFO] [evaluator] Evaluated {title} at {company} - Score: {job['fit_score']}")
-                    except json.JSONDecodeError:
-                        print(f"[WARNING] [evaluator] Could not parse AI response JSON for job {idx}")
+
+        for attempt in range(3):
+            try:
+                req = urllib.request.Request(
+                    gemini_url,
+                    data=json.dumps(payload_data).encode('utf-8'),
+                    headers={'Content-Type': 'application/json'}
+                )
+                with urllib.request.urlopen(req) as response:
+                    if response.status == 200:
+                        resp_json = json.loads(response.read().decode('utf-8'))
+                        text_resp = resp_json['candidates'][0]['content']['parts'][0]['text']
+
+                        try:
+                            eval_data_list = json.loads(text_resp)
+                            if isinstance(eval_data_list, list) and len(eval_data_list) > 0:
+                                eval_data = eval_data_list[0]
+                            else:
+                                eval_data = eval_data_list
+
+                            job['fit_score'] = eval_data.get('fit_score', 0)
+                            job['evaluation_reason'] = eval_data.get('reasoning', 'No reasoning provided.')
+                            evaluated_jobs.append(job)
+                            print(f"[INFO] [evaluator] Evaluated {title} at {company} - Score: {job['fit_score']}")
+                        except json.JSONDecodeError:
+                            print(f"[WARNING] [evaluator] Could not parse AI response JSON for job {idx}")
+                    else:
+                        print(f"[ERROR] [evaluator] Gemini API error: {response.status}")
+                break  # Success, no retry needed
+            except urllib.error.HTTPError as e:
+                if e.code == 429 and attempt < 2:
+                    wait = 30 * (attempt + 1)
+                    print(f"[WARNING] [evaluator] Rate limited on job {idx}, waiting {wait}s (attempt {attempt + 1}/3)")
+                    time.sleep(wait)
                 else:
-                     print(f"[ERROR] [evaluator] Gemini API error: {response.status}")
-        except Exception as e:
-            print(f"[ERROR] [evaluator] AI evaluation failed for job {idx}: {e}")
+                    print(f"[ERROR] [evaluator] AI evaluation failed for job {idx}: {e}")
+                    break
+            except Exception as e:
+                print(f"[ERROR] [evaluator] AI evaluation failed for job {idx}: {e}")
+                break
             
     # Sort by fit_score descending
     evaluated_jobs.sort(key=lambda x: x.get('fit_score', 0), reverse=True)
