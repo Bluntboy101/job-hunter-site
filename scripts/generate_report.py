@@ -39,22 +39,19 @@ def generate_report(evaluated_jobs_file, output_file, history_file):
     with open(history_file, 'w') as f:
         json.dump(combined_jobs, f, indent=2)
 
+    # Count displayable jobs (score >= 20, max 50)
+    display_jobs = [j for j in combined_jobs if j.get('fit_score', 0) >= 20][:50]
+
     today = datetime.now().strftime('%Y-%m-%d')
     md_content = f"# Job Hunter Multi-Day Report - {today}\n\n"
-    md_content += f"Currently tracking **{len(combined_jobs)}** unique jobs based on your CV and needs. Ranked by best fit.\n\n"
-    
+    md_content += f"Showing **{len(display_jobs)}** matching jobs ranked by best fit.\n\n"
+
     md_content += "## Top Matches\n\n"
-    
+
     count = 0
-    for idx, job in enumerate(combined_jobs):
+    for job in display_jobs:
         score = job.get('fit_score', 0)
-        # Show only somewhat relevant jobs (score > 20) or just the top 50 overall
-        if score < 20: 
-            continue
-            
         count += 1
-        if count > 50: # Max 50 items displayed in the markdown report
-            break
             
         title = job.get('job_title', 'Unknown Title')
         company = job.get('employer_name', 'Unknown Company')
