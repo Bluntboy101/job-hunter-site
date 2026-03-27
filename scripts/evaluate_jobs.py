@@ -52,10 +52,10 @@ def evaluate_jobs(jobs, cv_path, needs):
         if idx > 0:
             time.sleep(6)
 
-        title = job.get('job_title', 'Unknown Title')
-        company = job.get('employer_name', 'Unknown Company')
-        desc = job.get('job_description', '')
-        url = job.get('job_apply_link', '')
+        title = job.get('job_title') or 'Unknown Title'
+        company = job.get('employer_name') or 'Unknown Company'
+        desc = job.get('job_description') or ''
+        url = job.get('job_apply_link') or ''
         
         prompt = f"""
         Evaluate this job against my CV and specific needs.
