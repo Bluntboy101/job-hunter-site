@@ -585,7 +585,7 @@
     "job_longitude": null,
     "job_benefits": null,
     "job_benefits_strings": null,
-    "job_google_link": "https://www.google.com/search?ibp=htl;jobs&q&htidocid=NlEDu-X7Ba-P7ctsAAAAAA%3D%3D&hl=en-US&shem=epsd1,rimspwouoe&shndl=37&shmd=H4sIAAAAAAAA_xXEsQrCMBAAUFwc-glON6rURgQXBRcHRRAExbVc45FEYy7kDlo_wP8W3_Cq76janbG8SENysOf86UtQKjC9YHjUcGUbMNZwu89gASfuQAiL9cAJDswu0mTrVbNsjBGJjRNFDbax_DacqOPBPLmTf614LJQjKrWr9XJocnLz8RFj5P4H_gpEHogAAAA&shmds=v1_ATWGeeN6DEchUX_OmqqRzuSnxk154ahvkyXK5kZhGQGMzAeG1A&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq&htidocid=NlEDu-X7Ba-P7ctsAAAAAA%3D%3D",
+    "job_google_link": "https://www.google.com/search?ibp=htl;jobs&q&htidocid=NlEDu-X7Ba-P7ctsAAAAAA%3D%3D&hl=en-US&shem=rimspwouoe&shndl=37&shmd=H4sIAAAAAAAA_xXEsQrCMBAAUFwc-glON6rURgQXBRcHRRAExbVc45FEYy7kDlo_wP8W3_Cq76janbG8SENysOf86UtQKjC9YHjUcGUbMNZwu89gASfuQAiL9cAJDswu0mTrVbNsjBGJjRNFDbax_DacqOPBPLmTf614LJQjKrWr9XJocnLz8RFj5P4H_gpEHogAAAA&shmds=v1_ATWGeeN6DEchUX_OmqqRzuSnxk154ahvkyXK5kZhGQGMzAeG1A&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq&htidocid=NlEDu-X7Ba-P7ctsAAAAAA%3D%3D",
     "job_salary": null,
     "job_salary_string": null,
     "job_min_salary": null,
@@ -596,7 +596,7 @@
     "job_onet_job_zone": null,
     "employer_reviews": null,
     "fit_score": 92,
-    "evaluation_reason": "The role aligns exceptionally well with Natalie's expertise in strategic copywriting for paid traffic, ad creatives, and scriptwriting, particularly within the personal development and spiritual niche. All her key constraints, including remote work and British time zone flexibility, are perfectly met."
+    "evaluation_reason": "The role is an exceptional match for your expertise in scriptwriting, paid ad copy, and direct response for wellness and personal development brands, directly aligning with your core skills and content niche. The remote, flexible hours align perfectly with your constraints and preferred aesthetic, although the specific output (ad creative) differs slightly from your aspirational high-intellect editorial publications."
   },
   {
     "job_id": "tl9LmqhgMeFmdvEeAAAAAA==",
@@ -829,6 +829,52 @@
     "employer_reviews": null,
     "fit_score": 90,
     "evaluation_reason": "This B2B Contract Copywriter role for an eating disorder treatment program aligns exceptionally well with Natalie's wellness niche, demand for high-quality, empathetic communication, and stated remote/British time zone constraints. Her deep experience in conversion copywriting, email ecosystems, and brand voice perfectly matches the responsibilities, despite the job being more execution-focused than her strategic background."
+  },
+  {
+    "job_id": "H2OPJhY2zpfxWj4SAAAAAA==",
+    "job_title": "Marketing Copywriter",
+    "employer_name": "Human Marketing",
+    "employer_logo": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://human.marketing&size=128",
+    "employer_website": "https://human.marketing",
+    "job_publisher": "Jobs By Workable",
+    "job_employment_type": "Contractor",
+    "job_employment_types": [
+      "CONTRACTOR"
+    ],
+    "job_apply_link": "https://jobs.workable.com/view/fvdXHxY73acoGfbf6qUZUt/remote-marketing-copywriter-in-united-states-at-human-marketing",
+    "job_apply_is_direct": false,
+    "apply_options": [
+      {
+        "apply_link": "https://jobs.workable.com/view/fvdXHxY73acoGfbf6qUZUt/remote-marketing-copywriter-in-united-states-at-human-marketing",
+        "is_direct": false,
+        "publisher": "Jobs By Workable"
+      }
+    ],
+    "job_description": "We're hiring a part-time contract copywriter to support our client work across multiple formats. Hours flex with our pipeline, with room to scale if it clicks.\n\nWhat you'll write:\n\n- Client ad copy (paid social, search, display)\n\n- Email and lifecycle copy (campaigns, flows, broadcasts)\n\n- Social media content calendars\n\n- Blog posts and SEO content\n\n- Case studies\n\nAI fluency is required for this\u00a0role. We\u2019re looking for copywriters who know how to use AI intelligently \u2014 to explore angles, generate ideas, pressure-test hooks, speed up drafts, and improve the work. But AI is not a substitute for taste, judgment, or craft.\n\nThe right person knows how to prompt, edit, refine, and push the work until it feels specific, sharp, on-brand, and human. We are not looking for raw AI output, generic copy, or lightly massaged slop. We\u2019re looking for a strong copywriter who uses AI as part of a better process, not as a replacement for knowing how to write.\n\n- You have 3+ years of professional copywriting experience, ideally agency or in-house brand\n\n- You can write across formats and voices without flattening either\n\n- Your portfolio includes performance work \u2014 not just brand poetry, but copy that had to do a job\n\n- You can take a brief once and produce something that doesn't need a second briefing\n\n- You have strong opinions about good writing and the spine to defend them\n\n- You're fluent with AI tools and have a thoughtful point of view on how you use them",
+    "job_is_remote": true,
+    "job_posted_at": "1 day ago",
+    "job_posted_at_timestamp": 1779235200,
+    "job_posted_at_datetime_utc": "2026-05-20T00:00:00.000Z",
+    "job_location": "Anywhere",
+    "job_city": null,
+    "job_state": null,
+    "job_country": null,
+    "job_latitude": null,
+    "job_longitude": null,
+    "job_benefits": null,
+    "job_benefits_strings": null,
+    "job_google_link": "https://www.google.com/search?ibp=htl;jobs&q&htidocid=H2OPJhY2zpfxWj4SAAAAAA%3D%3D&hl=en-US&shem=rimspwouoe&shndl=37&shmd=H4sIAAAAAAAA_z3NsQoCMQwA0P0Wd6fMiq0ILjo6KILfcKQltNVeU5KIJ_68uLi89Q2fYX1DeZCVluDE_f2SYiSwgSsHUEKJGbjBmTlVWh6zWdeD96rVJTW0El3kyXOjwLO_c9Afo2YU6hWNxt1-O7ve0mpxeU7Y4P99AbDLJkh9AAAA&shmds=v1_ATWGeeNr_HMUVmftY0NnxTiDSC9BUjwtumTF32GgK06rXxtlRg&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq&htidocid=H2OPJhY2zpfxWj4SAAAAAA%3D%3D",
+    "job_salary": null,
+    "job_salary_string": null,
+    "job_min_salary": null,
+    "job_max_salary": null,
+    "job_salary_period": null,
+    "job_highlights": {},
+    "job_onet_soc": null,
+    "job_onet_job_zone": null,
+    "employer_reviews": null,
+    "fit_score": 90,
+    "evaluation_reason": "This role is an excellent match for Natalie's core copywriting skills in advertising, email, and blog content, perfectly aligning with her remote and British time zone constraints. Her extensive experience in conversion-focused copy for personal development and wellness brands, coupled with a strong emphasis on performance, makes her highly suitable for this agency's client work."
   },
   {
     "job_id": "gRtjjDZeo8k39Yz-AAAAAA==",
@@ -1066,6 +1112,98 @@
     "employer_reviews": null,
     "fit_score": 88,
     "evaluation_reason": "Natalie's extensive experience in conversion copywriting, direct response, email marketing, and ad copy for personal development and wellness brands directly aligns with the job's focus on conversion-focused copy for A/B testing, landing pages, email, and paid media. The role's remote and contract nature also perfectly matches her stated constraints and availability, making it a strong functional fit despite a slight misalignment with her aspiration for more editorial writing."
+  },
+  {
+    "job_id": "nL6gLF2wHyV6EnesAAAAAA==",
+    "job_title": "Remote Freelance Copywriter for Social-First Campaigns",
+    "employer_name": "Collier Simon",
+    "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0S7yPUxkG0W6Y6-mLmtEtUZoI0yvxNnZm22vy&s=0",
+    "employer_website": "https://colliersimon.com",
+    "job_publisher": "JobLeads",
+    "job_employment_type": "Full-time",
+    "job_employment_types": [
+      "FULLTIME"
+    ],
+    "job_apply_link": "https://www.jobleads.com/us/job/remote-freelance-copywriter-for-social-first-campaigns--united-states--e91c4a274c96782c8f5e57bb2bbfbc6ba",
+    "job_apply_is_direct": false,
+    "apply_options": [
+      {
+        "apply_link": "https://www.jobleads.com/us/job/remote-freelance-copywriter-for-social-first-campaigns--united-states--e91c4a274c96782c8f5e57bb2bbfbc6ba",
+        "is_direct": false,
+        "publisher": "JobLeads"
+      }
+    ],
+    "job_description": "Collier Simon is seeking a Freelance Copywriter with 3-5 years of creative agency experience to develop engaging copy across various mediums, including social media, video scripts, and web content. The role is remote and involves managing multiple projects and collaborating with teams. A strong portfolio is required for consideration. Ideal candidates will have digital ad experience and excellent communication skills, working effectively in a fast-paced environment.",
+    "job_is_remote": true,
+    "job_posted_at": "7 days ago",
+    "job_posted_at_timestamp": 1778716800,
+    "job_posted_at_datetime_utc": "2026-05-14T00:00:00.000Z",
+    "job_location": "Anywhere",
+    "job_city": null,
+    "job_state": null,
+    "job_country": null,
+    "job_latitude": null,
+    "job_longitude": null,
+    "job_benefits": null,
+    "job_benefits_strings": null,
+    "job_google_link": "https://www.google.com/search?ibp=htl;jobs&q&htidocid=nL6gLF2wHyV6EnesAAAAAA%3D%3D&hl=en-US&shem=rimspwouoe&shndl=37&shmd=H4sIAAAAAAAA_xWOsQrCMBBAce0nOMjNQhsRXHQsVBBcLM7lGs80kuZC7sD6T36kcXnje6_6rqrrjWZWgi4TBYyWoOX0eWevlOHJGXq2HkPd-SwKLc4JvYsCNVx4BCHMdgKOcGZ2gdanSTXJ0RiR0DhRVG8by7PhSCMv5sWj_DHIhJlSQKVhf9gtTYpuu2k5BF-6vZ-L0ke4x_LxgL54SH5pQ4YirwAAAA&shmds=v1_ATWGeePl5p19hetXh-NhN3W9HtKXs2nUNmNHr9fvFo_IvAS_-w&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq&htidocid=nL6gLF2wHyV6EnesAAAAAA%3D%3D",
+    "job_salary": null,
+    "job_salary_string": "60K\u201380K a year",
+    "job_min_salary": 60000,
+    "job_max_salary": 80000,
+    "job_salary_period": "YEAR",
+    "job_highlights": {},
+    "job_onet_soc": null,
+    "job_onet_job_zone": null,
+    "employer_reviews": null,
+    "fit_score": 88,
+    "evaluation_reason": "This role is an excellent match given Natalie's extensive experience in social-first content, video scripts, email, and ad copy, combined with the remote nature of the position. The primary constraint of British Time Zone is the only unconfirmed detail from the job description."
+  },
+  {
+    "job_id": "NVuW2215GokbsrXFAAAAAA==",
+    "job_title": "Marketing Copywriter (Paid, Social, TV)",
+    "employer_name": "Hallow",
+    "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKrQBPy8WHI7muzCHs5rHqQf1PwBkHNvflGOET&s=0",
+    "employer_website": "https://hallow.com",
+    "job_publisher": "Gem",
+    "job_employment_type": "Contractor",
+    "job_employment_types": [
+      "CONTRACTOR"
+    ],
+    "job_apply_link": "https://jobs.gem.com/hallow/am9icG9zdDrQUMtACBY50_9jQT5vFjnf",
+    "job_apply_is_direct": false,
+    "apply_options": [
+      {
+        "apply_link": "https://jobs.gem.com/hallow/am9icG9zdDrQUMtACBY50_9jQT5vFjnf",
+        "is_direct": false,
+        "publisher": "Gem"
+      }
+    ],
+    "job_description": "TL;DR: We\u2019re looking for a Marketing Copywriter to help bring Hallow\u2019s message to life across paid ads, social, and TV\u2014writing high-performing scripts and creative that invite people into prayer.\n\nWhat You'll Do\n\u2022 Own Ad Creative Copy (Paid, Social, TV): You\u2019ll write scripts and copy for ads across channels\u2014from paid social and UGC to influencer partnerships and TV commercials. Your work will help millions of people discover Hallow and take their first step into prayer.\n\u2022 Turn Performance into Creative: You\u2019ll dig into ad performance\u2014what\u2019s working, what\u2019s not\u2014and turn those insights into better hooks, better scripts, and better storytelling. You know how to spot patterns and iterate quickly.\n\u2022 Write for Real People (and Real Voices): You\u2019ll create scripts for a wide range of voices\u2014from everyday users and UGC creators to influencers and celebrity partners. You\u2019ll adapt tone and messaging while staying true to Hallow\u2019s voice.\n\u2022 Collaborate Cross-Functionally: You\u2019ll work closely with Design, Content, and Partnerships teams to bring campaigns to life\u2014from initial concept to final execution.\n\u2022 Test, Learn, Repeat: You\u2019ll constantly test new hooks, formats, angles, and messaging. You\u2019re excited by experimentation and motivated by seeing your ideas translate into real impact.\n\nWhat You'll Love\n\u2022 Mission: This work is incredibly humbling. Everyday we hear amazing stories and we get the pleasure of working on something that\u2019s impacting lives. One of our favorite user quotes: \u201cI hate quoting an old, overused cliche, but I\u2019ve been very lost. And I think for the first time in a while I may be found.\u201d\n\u2022 Ownership: When a company is this small, every employee is a core team member with an outsized impact. You'll be the face of Hallow as you build creative that is seen by millions around the world and directly impacts growth.\n\u2022 Growth: From day 1, you\u2019ll be a part of the startup journey. We're growing quickly, and we\u2019ll need your help to create a world-class team and get individuals praying in more countries around the world.\n\u2022 Flexibility: HQ is in Chicago (USA); this position is remote. We\u2019re super flexible with location/hours; we don\u2019t care when you work, just that it gets done.\n\u2022 Comp: We will pay competitive market rates for this hourly, part-time contract position.\n\nWhat We're Looking For\n\u2022 Passion: First and foremost, we\u2019re looking for someone excited and passionate about our mission. It makes it a lot more fun to actually care about what you\u2019re working on!\n\u2022 Experience: You have strong experience writing high-performing marketing copy, especially for paid ads, UGC, influencer content, or TV. You know how to hook attention and drive action. You must have specific examples of scripts, videos, commercials, or ads that you've worked on the past.\n\u2022 Performance Mindset: You don\u2019t just write\u2014you learn. You\u2019re comfortable digging into performance data and using it to improve your work.\n\u2022 Creative Range: You can write for different formats, audiences, and voices\u2014from short-form social hooks to longer storytelling scripts.\n\u2022 Speed + Hustle: You can move quickly, iterate often, and keep up in a fast-paced environment.\n\u2022 Attention to Detail: You care about the little things\u2014word choice, tone, clarity\u2014and hold a high bar for quality.\n\nCompensation Range\n$25-50 USD per hour dependent on experience\n\nThis position is a part-time, contract role with no additional benefits offered. The actual amounts could be anywhere within the stated range, dependent on experience.",
+    "job_is_remote": true,
+    "job_posted_at": null,
+    "job_posted_at_timestamp": null,
+    "job_posted_at_datetime_utc": null,
+    "job_location": "Anywhere",
+    "job_city": null,
+    "job_state": null,
+    "job_country": null,
+    "job_latitude": null,
+    "job_longitude": null,
+    "job_benefits": null,
+    "job_benefits_strings": null,
+    "job_google_link": "https://www.google.com/search?ibp=htl;jobs&q&htidocid=NVuW2215GokbsrXFAAAAAA%3D%3D&hl=en-US&shem=rimspwouoe&shndl=37&shmd=H4sIAAAAAAAA_xXNsQrCMBCAYVz7AoLTjSq1EcGlgouDIghC1bVc0yONxlzIBVpfxOe1Lv_4_dl3ku0vGF-UrDdw4PDpo00UYX5F2-ZQsbbocrg9FrCCMzcghFF3wB6OzMbRbNelFKRUSsQVRhImqwvNb8WeGh7Ukxv5p5YOIwWHierNdj0UwZvl9ITOcQ_Ww92P4xaqESD5AdJxks2ZAAAA&shmds=v1_ATWGeeNiMgg8mz2CKKtmMtRv3mipLUgoaAymYkzGmzV1W7GZkA&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq&htidocid=NVuW2215GokbsrXFAAAAAA%3D%3D",
+    "job_salary": null,
+    "job_salary_string": null,
+    "job_min_salary": null,
+    "job_max_salary": null,
+    "job_salary_period": null,
+    "job_highlights": {},
+    "job_onet_soc": null,
+    "job_onet_job_zone": null,
+    "employer_reviews": null,
+    "fit_score": 88,
+    "evaluation_reason": "This role is an excellent fit, leveraging your strong background in direct-response ad creative, script writing for VSLs/ads, and performance optimization within the aligned niche of spirituality and personal development, while meeting all remote and time zone constraints."
   },
   {
     "job_id": "Ig2mgMnAnUAFq-oVAAAAAA==",
@@ -1412,52 +1550,6 @@
     "job_onet_job_zone": "4",
     "fit_score": 83,
     "evaluation_reason": "This role is an excellent fit, aligning perfectly with your remote constraint, non-profit experience, and expertise in the wellness/mental health niche. While your CV emphasizes conversion and launch strategy, you possess the hands-on content writing skills required for educational articles, which aligns with your 'Blog/PR Copy' skill and desire for high-intellect publications."
-  },
-  {
-    "job_id": "xgP-3EwyZXODPkfZAAAAAA==",
-    "job_title": "Senior Copywriter / Ad Creative Strategist (Remote Full Time, 6-10K USD Per Mo)",
-    "employer_name": "Impact Clients",
-    "employer_logo": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://go.impactclients.co&size=128",
-    "employer_website": "https://go.impactclients.co",
-    "job_publisher": "Indeed",
-    "job_employment_type": "Full-time",
-    "job_employment_types": [
-      "FULLTIME"
-    ],
-    "job_apply_link": "https://www.indeed.com/viewjob?jk=d563f90e8bc3d207",
-    "job_apply_is_direct": false,
-    "apply_options": [
-      {
-        "apply_link": "https://www.indeed.com/viewjob?jk=d563f90e8bc3d207",
-        "is_direct": false,
-        "publisher": "Indeed"
-      }
-    ],
-    "job_description": "Are you the type of person who can look at an Ad or a Funnel\u2026 and instantly see what the offer is missing?\n\nDo you love funnel hacking other people's ads, VSLs, high ticket coaching offers, low ticket offers, and enjoy coming up with dangerously unique marketing angles, unique mechanisms, and hooks that scroll stop on ads and make people buy?\n\nDo you get excited by the idea of making faceless or AI Avatar ads that generate high ROAS and to work on VSL and low ticket offer funnels that are faceless/brandless?\n\nIf yes, keep reading.\n\nBecause this is not a \u201cwrite some copy and hop on meetings\u201d role.\n\nWe\u2019re hiring a Performance Markter/Creative Strategist to be an engine to generate ads for our offers.\n\nYour job is simple to explain, hard to do:\n\nGenerate a massive volume of winning ads to fuel 7-figure ad funnels and make new offers scale to $1M/month in ad spend on cold META traffic.\nAbout Richard Yu\nFounded in 2019, Richard started as a broke college student at UCLA with student debt, and created a $500 digital product teaching college students how to wake up early and have better habits.\n\nThat product did over $500,000 USD in less than 8 months because Richard \"cracked\" the formula for how to sell a digital product online.\n\nLater that year, he pivoted into consulting others (personal trainers, doctors, dentists, coaches) on how to scale their info / digital product businesses, and in the last 5 years, this business has now scaled to over $30M in sales, and we have served well over 5,000 clients.\n\nOur mission is simple: To help ordinary people (9-5ers, stay at home parents, college students) build extraordinary online businesses and learn high-income skills.\n\nAnd most importantly, we put the client results at the top of our priorities, and do our very best to fulfill on the promises we make to our clients.\n\nThe core value #1 of our company is: Client Success = Company Success.\n\nOver the last few years, we have primarily run our business with the following funnel:\n\nOrganic content (and paid ads) -> 20 minute VSL funnel -> book a sales call -> talk to closer -> sell a high ticket offer.\n\nNow, the company is moving toward a low-ticket, faceless funnel model, so growth is no longer bottlenecked by the founder making content.\n\nWe help beginners start their own digital product businesses, and we sell low ticket, mid ticket, and high ticket digital products that help them learn how to sell digital products.\n\nWe currently have a Head of Marketing who owns analytics, performance tracking, and coordination across different deparmtents\n\nWhat we are missing is a Creative Strategiest / Senior Copywriter, who can come up with tons of winning ads and also contribute to coming up with all the unique offer angles and ad angles that cut through the noise in this competitive \u201cmake money online\u201d landscape.\n\nIn this role, you would be the creative weapon.\n\nThe offer brain.\n\nThe copy brain.\n\nThe person who invents the ads to get our products scaled.\nWhat You\u2019ll Be Doing1) Ad Angles + Ad Copy (End-to-End)\n\n\u2022 Create ad concepts, hooks, and angles aligned with each offer\n\n\u2022 Write complete ad copy for:\n\n\u2022\n\n\u2022 Meta ads\n\n\u2022 YouTube ads\n\n\u2022 Instagram reels\n\n\u2022 Any paid traffic channel we deploy\n\n\u2022 Work with our editors and graphics designers to transform your copy into ads that convert\n\n\u2022\n\n\u2022 If you can make ads entirely by yourself, that's even better\n\n\u2022 Maintain message-market consistency from ad VSL page checkout\n\n2) Assist with Offer Creation (Faceless-First)\n\n\u2022 Work with the founder, Richard to create new low-ticket offers from scratch (concept name mechanism deliverables)\n\n\u2022 Contribute with building offers that are designed to break even or better on cold traffic\n\nPerformance requirement:\n\nYour offers must be able to hold at least a 1.5x ROAS breakeven or higher on cold Meta traffic, with the mid-term goal (less than 3-6 months from today) of scaling to:\n\n\u2022 $1,000,000+ per month in ad spend\n\n\u2022 Roughly $30K\u2013$40K/day on Meta.\n\nBy offers, we define low ticket offers as anything that can be sold on a landing page (with or without VSL), and WITHOUT any type of sales person (no chat sales, no texting sales, no sales calls with a closer/setter on the front end landing page).\n\n3) VSL Writing (Word-for-Word Scripts)\n\n\u2022 Work with the founder to write full, word-for-word VSL scripts designed for:\n\n\u2022\n\n\u2022 AI avatar VSLs\n\n\u2022 Actor-read VSLs\n\n\u2022 Voiceover + b-roll / stock footage\n\n\u2022 Ensure scripts are production-ready, clean, and conversion-focused\n\n\u2022 No founder recording presence required, faceless is the default\n\n4) Funnel Messaging Ownership\n\n\u2022 Own the conversion narrative across the entire funnel\n\n\u2022 Collaborate with the Head of Marketing to iterate based on performance data\n\nRequirements\n\nYou Must Have:\n\n\u2022 Real direct-response experience (offers, VSLs, ads \u2014 not brand fluff)\n\n\u2022 A track record of writing winning ads for scaled offers, including coming up with new concepts, not just rewriting what already exists\n\n\u2022 A strong understanding of cold traffic psychology, especially low-ticket offers\n\n\u2022 A track record of writing copy that\u2019s simple, clear, emotionally sharp, and scalable\n\n\u2022 A preference for deep work over meetings (this role is ~90% creation)\n\nBig bonuses (not required):\n\n\u2022 You\u2019ve scaled low-ticket offers before\n\n\u2022 You\u2019ve built faceless funnels\nYou\u2019ve worked in info, education, or subscription businesses in biz opp space.\n\nBenefits\n\nBenefits of this role\n\n\u2022 High performance team culture with an A-player team that is No BS, Get Sh*t Done type of attitude\n\n\u2022 Make a real difference in educating and inspiring beginners and 9-5ers on how to change their lives.\n\n\u2022 True growth opportunity into a c-suite level partner in the company.\n\n\u2022 Travel with our c-suite executive team to 2-3X team retreats per year globally (last year we did Dubai, Egypt, China, and Puerto Rico!) - Not required, but a bonus for those that like travel.\n\n\u2022 Real ownership over offers and messaging\n\n\u2022 Remote + flexible hours, deep thinking and creative work is the primary function of this role\n\nCompensation\nCompensation is intentionally open-ended and tied to skill level.\n\nThis role can be structured as:\nOption A: Performance Marketer & Creative Strategist / Senior Ads Copywriter Level\n\n\u2022 $6K\u2013$10K/month base salary\n\n\u2022 Performance-based bonuses tied to ads performance\n\nOption B: Chief Copywriter and Offer Creator / Partner-Level\n\n\u2022 Base salary + Meaningful upside, such as:\n\n\u2022\n\n\u2022 Bonuses per winning offer\n\n\u2022 Quarterly profit share bonuses based on performance\n\n\u2022 Ownership equity % in our company, as we are scaling to sell within the next 36 months @ 9-figure valuation for our sister company which is a SAAS, which recently received a low 8-figure valuation from private equity.\n\nWe pay for leverage. If you can build offers that scale, compensation will reflect that.\n\nIf this role is exciting to you, and you're still here, then we encourage you to apply quickly below.\n\nWe'll be in touch via Whatsapp and/or email to coordinate to have a chat!",
-    "job_is_remote": true,
-    "job_posted_at": null,
-    "job_posted_at_timestamp": null,
-    "job_posted_at_datetime_utc": null,
-    "job_location": "Anywhere",
-    "job_city": null,
-    "job_state": null,
-    "job_country": null,
-    "job_latitude": null,
-    "job_longitude": null,
-    "job_benefits": null,
-    "job_benefits_strings": null,
-    "job_google_link": "https://www.google.com/search?ibp=htl;jobs&q&htidocid=xgP-3EwyZXODPkfZAAAAAA%3D%3D&hl=en-US&shem=rimspwouoe&shndl=37&shmd=H4sIAAAAAAAA_xWOsW4CMRBElZZPoGHKgOBMkKCACh0iSqJIEQc18h3LnZHPa3k3CfnBfFecZqqZN2_w-zC4VhQcJ5Qcf76TU0ow2F5QJrLqvgiVJqvUOlE8HqhnJew_vcfR9TTFavY0f8Op2uEjL995jBleuYaQTU0HDnhmbj0NN51qlLUxIr5oRTO8KRruDQeq-W5uXMt_nKWziaLPn-fFcn4vYmgno5c-2kZRekdBBS7gFLLrJdvlovwBAy-wnMkAAAA&shmds=v1_ATWGeeP7_qMYFqwBLB0Am8_rjveKo877kN2ztLJI20dU8SAIIg&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq&htidocid=xgP-3EwyZXODPkfZAAAAAA%3D%3D",
-    "job_salary": null,
-    "job_salary_string": "72K\u2013150K a year",
-    "job_min_salary": 72000,
-    "job_max_salary": 150000,
-    "job_salary_period": "YEAR",
-    "job_highlights": {},
-    "job_onet_soc": null,
-    "job_onet_job_zone": null,
-    "employer_reviews": null,
-    "fit_score": 82,
-    "evaluation_reason": "This role is an excellent match for Natalie's core skills in funnel strategy, VSLs, ad copywriting, and launch management, aligning perfectly with the 'Senior Copywriter / Ad Creative Strategist' title. However, the 'make money online' niche and the specific 'faceless/AI avatar ads' approach are a slight mismatch for her preferred content niches and aesthetic alignment, and the British Time Zone constraint is not explicitly met."
   },
   {
     "job_id": "3LPkQov9ViWQyxEBAAAAAA==",
@@ -1929,6 +2021,52 @@
     "evaluation_reason": "This role is an excellent match for your conversion copywriting, launch, and funnel strategy skills, as well as your remote and British time zone constraints. However, it significantly diverges from your desired content niches (e.g., wellness, personal development) and your aspiration to write for high-intellect/lifestyle publications, as it focuses on platform-specific conversion copy."
   },
   {
+    "job_id": "SSlgzDaROW4zhh1tAAAAAA==",
+    "job_title": "Senior Copywriter / Ad Creative Strategist (Remote Full Time, 6-10K USD Per Mo)",
+    "employer_name": "Impact Clients",
+    "employer_logo": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://go.impactclients.co&size=128",
+    "employer_website": "https://go.impactclients.co",
+    "job_publisher": "Jobs By Workable",
+    "job_employment_type": "Full-time",
+    "job_employment_types": [
+      "FULLTIME"
+    ],
+    "job_apply_link": "https://apply.workable.com/impact-clients/j/42EB26B86D",
+    "job_apply_is_direct": false,
+    "apply_options": [
+      {
+        "apply_link": "https://apply.workable.com/impact-clients/j/42EB26B86D",
+        "is_direct": false,
+        "publisher": "Jobs By Workable"
+      }
+    ],
+    "job_description": "Are you the type of person who can look at an Ad or a Funnel\u2026 and instantly see what the offer is missing?\n\nDo you love funnel hacking other people's ads, VSLs, high ticket coaching offers, low ticket offers, and enjoy coming up with dangerously unique marketing angles, unique mechanisms, and hooks that scroll stop on ads and make people buy?\n\nDo you get excited by the idea of making faceless or AI Avatar ads that generate high ROAS and to work on VSL and low ticket offer funnels that are faceless/brandless?\n\nIf yes, keep reading.\n\nBecause this is not a \u201cwrite some copy and hop on meetings\u201d role.\n\nWe\u2019re hiring a Performance Markter/Creative Strategist to be an engine to generate ads for our offers.\n\nYour job is simple to explain, hard to do:\n\nGenerate a massive volume of winning ads to fuel 7-figure ad funnels and make new offers scale to $1M/month in ad spend on cold META traffic.\nAbout Richard Yu\n\nFounded in 2019, Richard started as a broke college student at UCLA with student debt, and created a $500 digital product teaching college students how to wake up early and have better habits.\n\nThat product did over $500,000 USD in less than 8 months because Richard \"cracked\" the formula for how to sell a digital product online.\n\nLater that year, he pivoted into consulting others (personal trainers, doctors, dentists, coaches) on how to scale their info / digital product businesses, and in the last 5 years, this business has now scaled to over $30M in sales, and we have served well over 5,000 clients.\n\nOur mission is simple: To help ordinary people (9-5ers, stay at home parents, college students) build extraordinary online businesses and learn high-income skills.\n\nAnd most importantly, we put the client results at the top of our priorities, and do our very best to fulfill on the promises we make to our clients.\n\nThe core value #1 of our company is: Client Success = Company Success.\n\nOver the last few years, we have primarily run our business with the following funnel:\n\nOrganic content (and paid ads) --> 20 minute VSL funnel --> book a sales call --> talk to closer --> sell a high ticket offer.\nNow, the company is moving toward a low-ticket, faceless funnel model, so growth is no longer bottlenecked by the founder making content.\n\nWe help beginners start their own digital product businesses, and we sell low ticket, mid ticket, and high ticket digital products that help them learn how to sell digital products.\n\nWe currently have a Head of Marketing who owns analytics, performance tracking, and coordination across different deparmtents\n\nWhat we are missing is a Creative Strategiest / Senior Copywriter, who can come up with tons of winning ads and also contribute to coming up with all the unique offer angles and ad angles that cut through the noise in this competitive \u201cmake money online\u201d landscape.\n\nIn this role, you would be the creative weapon.\nThe offer brain.\nThe copy brain.\nThe person who invents the ads to get our products scaled.\nWhat You\u2019ll Be Doing\n1) Ad Angles + Ad Copy (End-to-End)\n\u2022 Create ad concepts, hooks, and angles aligned with each offer\n\u2022 Write complete ad copy for:\n\u2022 Meta ads\n\u2022 YouTube ads\n\u2022 Instagram reels\n\u2022 Any paid traffic channel we deploy\n\u2022 Work with our editors and graphics designers to transform your copy into ads that convert\n\u2022 If you can make ads entirely by yourself, that's even better\n\u2022 Maintain message-market consistency from ad \u2192 VSL \u2192 page \u2192 checkout\n\n2) Assist with Offer Creation (Faceless-First)\n\u2022 Work with the founder, Richard to create new low-ticket offers from scratch (concept \u2192 name \u2192 mechanism \u2192 deliverables)\n\u2022 Contribute with building offers that are designed to break even or better on cold traffic\n\nPerformance requirement:\nYour offers must be able to hold at least a 1.5x ROAS breakeven or higher on cold Meta traffic, with the mid-term goal (less than 3-6 months from today) of scaling to:\n\u2022 $1,000,000+ per month in ad spend\n\u2022 Roughly $30K\u2013$40K/day on Meta.\n\nBy offers, we define low ticket offers as anything that can be sold on a landing page (with or without VSL), and WITHOUT any type of sales person (no chat sales, no texting sales, no sales calls with a closer/setter on the front end landing page).\n\n3) VSL Writing (Word-for-Word Scripts)\n\u2022 Work with the founder to write full, word-for-word VSL scripts designed for:\n\u2022 AI avatar VSLs\n\u2022 Actor-read VSLs\n\u2022 Voiceover + b-roll / stock footage\n\u2022 Ensure scripts are production-ready, clean, and conversion-focused\n\u2022 No founder recording presence required, faceless is the default\n\n4) Funnel Messaging Ownership\n\u2022 Own the conversion narrative across the entire funnel\n\u2022 Collaborate with the Head of Marketing to iterate based on performance data\n\nYou Must Have:\n\u2022 Real direct-response experience (offers, VSLs, ads \u2014 not brand fluff)\n\u2022 A track record of writing winning ads for scaled offers, including coming up with new concepts, not just rewriting what already exists\n\u2022 A strong understanding of cold traffic psychology, especially low-ticket offers\n\u2022 A track record of writing copy that\u2019s simple, clear, emotionally sharp, and scalable\n\u2022 A preference for deep work over meetings (this role is ~90% creation)\n\nBig bonuses (not required):\n\u2022 You\u2019ve scaled low-ticket offers before\n\u2022 You\u2019ve built faceless funnels\n\u2022 You\u2019ve worked in info, education, or subscription businesses in biz opp space.\n\nBenefits of this role\n\u2022 High performance team culture with an A-player team that is No BS, Get Sh*t Done type of attitude\n\u2022 Make a real difference in educating and inspiring beginners and 9-5ers on how to change their lives.\n\u2022 True growth opportunity into a c-suite level partner in the company.\n\u2022 Travel with our c-suite executive team to 2-3X team retreats per year globally (last year we did Dubai, Egypt, China, and Puerto Rico!) - Not required, but a bonus for those that like travel.\n\u2022 Real ownership over offers and messaging\n\u2022 Remote + flexible hours, deep thinking and creative work is the primary function of this role\n\n\ud83d\udcb0 Compensation\n\nCompensation is intentionally open-ended and tied to skill level.\n\nThis role can be structured as:\nOption A: Performance Marketer & Creative Strategist / Senior Ads Copywriter Level\n\u2022 $6K\u2013$10K/month base salary\n\u2022 Performance-based bonuses tied to ads performance\nOption B: Chief Copywriter and Offer Creator / Partner-Level\n\u2022 Base salary + Meaningful upside, such as:\n\u2022 Bonuses per winning offer\n\u2022 Quarterly profit share bonuses based on performance\n\u2022 Ownership equity % in our company, as we are scaling to sell within the next 36 months @ 9-figure valuation for our sister company which is a SAAS, which recently received a low 8-figure valuation from private equity.\n\nWe pay for leverage. If you can build offers that scale, compensation will reflect that.\n\nIf this role is exciting to you, and you're still here, then we encourage you to apply quickly below.\n\nWe'll be in touch via Whatsapp and/or email to coordinate to have a chat!",
+    "job_is_remote": true,
+    "job_posted_at": null,
+    "job_posted_at_timestamp": null,
+    "job_posted_at_datetime_utc": null,
+    "job_location": "Anywhere",
+    "job_city": null,
+    "job_state": null,
+    "job_country": null,
+    "job_latitude": null,
+    "job_longitude": null,
+    "job_benefits": null,
+    "job_benefits_strings": null,
+    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DSSlgzDaROW4zhh1tAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+    "job_salary": null,
+    "job_salary_string": null,
+    "job_min_salary": null,
+    "job_max_salary": null,
+    "job_salary_period": null,
+    "job_highlights": {},
+    "job_onet_soc": null,
+    "job_onet_job_zone": null,
+    "employer_reviews": null,
+    "fit_score": 73,
+    "evaluation_reason": "This role is a strong match for your direct response copywriting, funnel strategy, and ad creative skills, directly aligning with your CV's performance highlights and experience in VSLs and paid traffic. However, the company's 'make money online' niche and aggressive direct-response aesthetic may not perfectly align with your preferred wellness/conscious living niches and desire to write for high-intellect publications, and the British time zone alignment is not specified."
+  },
+  {
     "job_id": "9pJOP_f1fTx0pq_RAAAAAA==",
     "job_title": "Job of a Lifetime: Copywriter for Travel Company",
     "employer_name": "VIP Traveler",
@@ -1973,98 +2111,6 @@
     "employer_reviews": null,
     "fit_score": 70,
     "evaluation_reason": "Natalie's extensive experience in conversion copywriting, funnel strategy, and brand voice aligns well with the job's core requirements for an emotional anchor and conversion-driven writer. However, the job's focus on the travel industry is a notable deviation from her stated content niche preference of wellness and personal development."
-  },
-  {
-    "job_id": "nL6gLF2wHyV6EnesAAAAAA==",
-    "job_title": "Remote Freelance Copywriter for Social-First Campaigns",
-    "employer_name": "Collier Simon",
-    "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0S7yPUxkG0W6Y6-mLmtEtUZoI0yvxNnZm22vy&s=0",
-    "employer_website": "https://colliersimon.com",
-    "job_publisher": "JobLeads",
-    "job_employment_type": "Full-time",
-    "job_employment_types": [
-      "FULLTIME"
-    ],
-    "job_apply_link": "https://www.jobleads.com/us/job/remote-freelance-copywriter-for-social-first-campaigns--united-states--e91c4a274c96782c8f5e57bb2bbfbc6ba",
-    "job_apply_is_direct": false,
-    "apply_options": [
-      {
-        "apply_link": "https://www.jobleads.com/us/job/remote-freelance-copywriter-for-social-first-campaigns--united-states--e91c4a274c96782c8f5e57bb2bbfbc6ba",
-        "is_direct": false,
-        "publisher": "JobLeads"
-      }
-    ],
-    "job_description": "Collier Simon is seeking a Freelance Copywriter with 3-5 years of creative agency experience to develop engaging copy across various mediums, including social media, video scripts, and web content. The role is remote and involves managing multiple projects and collaborating with teams. A strong portfolio is required for consideration. Ideal candidates will have digital ad experience and excellent communication skills, working effectively in a fast-paced environment.",
-    "job_is_remote": true,
-    "job_posted_at": "5 days ago",
-    "job_posted_at_timestamp": 1778716800,
-    "job_posted_at_datetime_utc": "2026-05-14T00:00:00.000Z",
-    "job_location": "Anywhere",
-    "job_city": null,
-    "job_state": null,
-    "job_country": null,
-    "job_latitude": null,
-    "job_longitude": null,
-    "job_benefits": null,
-    "job_benefits_strings": null,
-    "job_google_link": "https://www.google.com/search?ibp=htl;jobs&q&htidocid=nL6gLF2wHyV6EnesAAAAAA%3D%3D&hl=en-US&shem=rimspwouoe&shndl=37&shmd=H4sIAAAAAAAA_xWOsQrCMBBAce0nOMjNQhsRXHQsVBBcLM7lGs80kuZC7sD6T36kcXnje6_6rqrrjWZWgi4TBYyWoOX0eWevlOHJGXq2HkPd-SwKLc4JvYsCNVx4BCHMdgKOcGZ2gdanSTXJ0RiR0DhRVG8by7PhSCMv5sWj_DHIhJlSQKVhf9gtTYpuu2k5BF-6vZ-L0ke4x_LxgL54SH5pQ4YirwAAAA&shmds=v1_ATWGeePl5p19hetXh-NhN3W9HtKXs2nUNmNHr9fvFo_IvAS_-w&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq&htidocid=nL6gLF2wHyV6EnesAAAAAA%3D%3D",
-    "job_salary": null,
-    "job_salary_string": "60K\u201380K a year",
-    "job_min_salary": 60000,
-    "job_max_salary": 80000,
-    "job_salary_period": "YEAR",
-    "job_highlights": {},
-    "job_onet_soc": null,
-    "job_onet_job_zone": null,
-    "employer_reviews": null,
-    "fit_score": 70,
-    "evaluation_reason": "The role aligns strongly with Natalie's core copywriting skills, extensive experience in launch and funnel strategy, and remote/freelance preference. However, the job description lacks specific niche alignment (e.g., wellness/personal development) and its 'social-first campaigns' focus may not fulfill her aspiration to write for high-intellect publications like The New Yorker."
-  },
-  {
-    "job_id": "NVuW2215GokbsrXFAAAAAA==",
-    "job_title": "Marketing Copywriter (Paid, Social, TV)",
-    "employer_name": "Hallow",
-    "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKrQBPy8WHI7muzCHs5rHqQf1PwBkHNvflGOET&s=0",
-    "employer_website": "https://hallow.com",
-    "job_publisher": "Gem",
-    "job_employment_type": "Contractor",
-    "job_employment_types": [
-      "CONTRACTOR"
-    ],
-    "job_apply_link": "https://jobs.gem.com/hallow/am9icG9zdDrQUMtACBY50_9jQT5vFjnf",
-    "job_apply_is_direct": false,
-    "apply_options": [
-      {
-        "apply_link": "https://jobs.gem.com/hallow/am9icG9zdDrQUMtACBY50_9jQT5vFjnf",
-        "is_direct": false,
-        "publisher": "Gem"
-      }
-    ],
-    "job_description": "TL;DR: We\u2019re looking for a Marketing Copywriter to help bring Hallow\u2019s message to life across paid ads, social, and TV\u2014writing high-performing scripts and creative that invite people into prayer.\n\nWhat You'll Do\n\u2022 Own Ad Creative Copy (Paid, Social, TV): You\u2019ll write scripts and copy for ads across channels\u2014from paid social and UGC to influencer partnerships and TV commercials. Your work will help millions of people discover Hallow and take their first step into prayer.\n\u2022 Turn Performance into Creative: You\u2019ll dig into ad performance\u2014what\u2019s working, what\u2019s not\u2014and turn those insights into better hooks, better scripts, and better storytelling. You know how to spot patterns and iterate quickly.\n\u2022 Write for Real People (and Real Voices): You\u2019ll create scripts for a wide range of voices\u2014from everyday users and UGC creators to influencers and celebrity partners. You\u2019ll adapt tone and messaging while staying true to Hallow\u2019s voice.\n\u2022 Collaborate Cross-Functionally: You\u2019ll work closely with Design, Content, and Partnerships teams to bring campaigns to life\u2014from initial concept to final execution.\n\u2022 Test, Learn, Repeat: You\u2019ll constantly test new hooks, formats, angles, and messaging. You\u2019re excited by experimentation and motivated by seeing your ideas translate into real impact.\n\nWhat You'll Love\n\u2022 Mission: This work is incredibly humbling. Everyday we hear amazing stories and we get the pleasure of working on something that\u2019s impacting lives. One of our favorite user quotes: \u201cI hate quoting an old, overused cliche, but I\u2019ve been very lost. And I think for the first time in a while I may be found.\u201d\n\u2022 Ownership: When a company is this small, every employee is a core team member with an outsized impact. You'll be the face of Hallow as you build creative that is seen by millions around the world and directly impacts growth.\n\u2022 Growth: From day 1, you\u2019ll be a part of the startup journey. We're growing quickly, and we\u2019ll need your help to create a world-class team and get individuals praying in more countries around the world.\n\u2022 Flexibility: HQ is in Chicago (USA); this position is remote. We\u2019re super flexible with location/hours; we don\u2019t care when you work, just that it gets done.\n\u2022 Comp: We will pay competitive market rates for this hourly, part-time contract position.\n\nWhat We're Looking For\n\u2022 Passion: First and foremost, we\u2019re looking for someone excited and passionate about our mission. It makes it a lot more fun to actually care about what you\u2019re working on!\n\u2022 Experience: You have strong experience writing high-performing marketing copy, especially for paid ads, UGC, influencer content, or TV. You know how to hook attention and drive action. You must have specific examples of scripts, videos, commercials, or ads that you've worked on the past.\n\u2022 Performance Mindset: You don\u2019t just write\u2014you learn. You\u2019re comfortable digging into performance data and using it to improve your work.\n\u2022 Creative Range: You can write for different formats, audiences, and voices\u2014from short-form social hooks to longer storytelling scripts.\n\u2022 Speed + Hustle: You can move quickly, iterate often, and keep up in a fast-paced environment.\n\u2022 Attention to Detail: You care about the little things\u2014word choice, tone, clarity\u2014and hold a high bar for quality.\n\nCompensation Range\n$25-50 USD per hour dependent on experience\n\nThis position is a part-time, contract role with no additional benefits offered. The actual amounts could be anywhere within the stated range, dependent on experience.",
-    "job_is_remote": true,
-    "job_posted_at": null,
-    "job_posted_at_timestamp": null,
-    "job_posted_at_datetime_utc": null,
-    "job_location": "Anywhere",
-    "job_city": null,
-    "job_state": null,
-    "job_country": null,
-    "job_latitude": null,
-    "job_longitude": null,
-    "job_benefits": null,
-    "job_benefits_strings": null,
-    "job_google_link": "https://www.google.com/search?ibp=htl;jobs&q&htidocid=NVuW2215GokbsrXFAAAAAA%3D%3D&hl=en-US&shem=rimspwouoe&shndl=37&shmd=H4sIAAAAAAAA_xXNsQrCMBCAYVz7AoLTjSq1EcGlgouDIghC1bVc0yONxlzIBVpfxOe1Lv_4_dl3ku0vGF-UrDdw4PDpo00UYX5F2-ZQsbbocrg9FrCCMzcghFF3wB6OzMbRbNelFKRUSsQVRhImqwvNb8WeGh7Ukxv5p5YOIwWHierNdj0UwZvl9ITOcQ_Ww92P4xaqESD5AdJxks2ZAAAA&shmds=v1_ATWGeeNiMgg8mz2CKKtmMtRv3mipLUgoaAymYkzGmzV1W7GZkA&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq&htidocid=NVuW2215GokbsrXFAAAAAA%3D%3D",
-    "job_salary": null,
-    "job_salary_string": null,
-    "job_min_salary": null,
-    "job_max_salary": null,
-    "job_salary_period": null,
-    "job_highlights": {},
-    "job_onet_soc": null,
-    "job_onet_job_zone": null,
-    "employer_reviews": null,
-    "fit_score": 70,
-    "evaluation_reason": "The role strongly aligns with your core skills in script writing, advertising, and direct response, and your niche expertise in personal development and spirituality, as well as your remote and time zone constraints. However, the specific religious context of Hallow and the direct-response ad focus may not fully align with your aspiration to write for high-intellect/lifestyle publications like The New Yorker."
   },
   {
     "job_id": "KUXcb6NqP2GVI8CbAAAAAA==",
@@ -2697,52 +2743,6 @@
     "evaluation_reason": "The role strongly aligns with Natalie's core copywriting, conversion, and funnel strategy skills, and it meets the remote constraint. However, the beauty niche and brand aesthetic are a poor fit for her stated preferences, and the job description does not confirm alignment with a British time zone."
   },
   {
-    "job_id": "H2OPJhY2zpfxWj4SAAAAAA==",
-    "job_title": "Marketing Copywriter",
-    "employer_name": "Human Marketing",
-    "employer_logo": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://human.marketing&size=128",
-    "employer_website": "https://human.marketing",
-    "job_publisher": "Workable Jobs",
-    "job_employment_type": "Contractor",
-    "job_employment_types": [
-      "CONTRACTOR"
-    ],
-    "job_apply_link": "https://jobs.workable.com/view/fvdXHxY73acoGfbf6qUZUt/remote-marketing-copywriter-in-united-states-at-human-marketing",
-    "job_apply_is_direct": false,
-    "apply_options": [
-      {
-        "apply_link": "https://jobs.workable.com/view/fvdXHxY73acoGfbf6qUZUt/remote-marketing-copywriter-in-united-states-at-human-marketing",
-        "is_direct": false,
-        "publisher": "Workable Jobs"
-      }
-    ],
-    "job_description": "We're hiring a part-time contract copywriter to support our client work across multiple formats. Hours flex with our pipeline, with room to scale if it clicks.\n\nWhat you'll write:\n\n- Client ad copy (paid social, search, display)\n\n- Email and lifecycle copy (campaigns, flows, broadcasts)\n\n- Social media content calendars\n\n- Blog posts and SEO content\n\n- Case studies\n\nAI fluency is required for this\u00a0role. We\u2019re looking for copywriters who know how to use AI intelligently \u2014 to explore angles, generate ideas, pressure-test hooks, speed up drafts, and improve the work. But AI is not a substitute for taste, judgment, or craft.\n\nThe right person knows how to prompt, edit, refine, and push the work until it feels specific, sharp, on-brand, and human. We are not looking for raw AI output, generic copy, or lightly massaged slop. We\u2019re looking for a strong copywriter who uses AI as part of a better process, not as a replacement for knowing how to write.\n\n- You have 3+ years of professional copywriting experience, ideally agency or in-house brand\n\n- You can write across formats and voices without flattening either\n\n- Your portfolio includes performance work \u2014 not just brand poetry, but copy that had to do a job\n\n- You can take a brief once and produce something that doesn't need a second briefing\n\n- You have strong opinions about good writing and the spine to defend them\n\n- You're fluent with AI tools and have a thoughtful point of view on how you use them",
-    "job_is_remote": true,
-    "job_posted_at": "12 hours ago",
-    "job_posted_at_timestamp": 1779220800,
-    "job_posted_at_datetime_utc": "2026-05-19T20:00:00.000Z",
-    "job_location": "Anywhere",
-    "job_city": null,
-    "job_state": null,
-    "job_country": null,
-    "job_latitude": null,
-    "job_longitude": null,
-    "job_benefits": null,
-    "job_benefits_strings": null,
-    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DH2OPJhY2zpfxWj4SAAAAAA%3D%3D&vssid=jobs-detail-viewer",
-    "job_salary": null,
-    "job_salary_string": null,
-    "job_min_salary": null,
-    "job_max_salary": null,
-    "job_salary_period": null,
-    "job_highlights": {},
-    "job_onet_soc": null,
-    "job_onet_job_zone": null,
-    "employer_reviews": null,
-    "fit_score": 65,
-    "evaluation_reason": "The role is an excellent match for your extensive copywriting, direct response, and performance-focused experience, aligning perfectly with desired quality standards and remote work. However, the job description does not specify British time zone alignment or confirm your AI fluency, which are critical for your needs and the role's requirements, respectively."
-  },
-  {
     "job_id": "gQO8pO5Peck_2nhKAAAAAA==",
     "job_title": "Remote Copywriter",
     "employer_name": "webfx.com",
@@ -2906,7 +2906,7 @@
     ],
     "job_description": "Job Title: Email Copywriter\n\nLocation: Remote\n\nEmployment Type: Full-Time Contractor\n\nWorking Hours: 8 hours per day, flexible timezone with overlap across GMT+1 (Europe) and GMT+10 (Australia), Monday\u2013Friday\n\nIndustry: E-commerce / Email Marketing\n\nAbout Us\n\nMint Source is a remote-first bridge that connects vibrant talent with international clients and agencies, enabling skilled individuals to showcase their expertise on a global stage.\n\nRole Overview\n\nMint Source is hiring an Email Copywriter to join a retention-focused email marketing agency that works with established DTC brands across fashion, beauty, lifestyle, and more. You'll write high-volume email copy for 10 DTC brands, producing 150-200 campaigns per month using AI (Claude) to move fast without losing brand voice. You'll work closely with strategy and design via ClickUp, build monthly campaign calendars, and keep fresh angles flowing across every brand. Success looks like consistent output, non-repetitive creative, and minimal revision cycles. This role is a fit if you think in systems and can produce at scale without bottlenecking the workflow.\n\nWhat You'll Do\n\n\u2022 Write 7-9 marketing emails per day across 10 DTC brands, using Claude to accelerate drafts while keeping copy on-brand\n\n\u2022 Build monthly campaign calendars per brand, mapping send cadences and themes to avoid overlap across accounts\n\n\u2022 Generate fresh angles, hooks, subject lines, and preview text so campaigns stay varied week over week\n\n\u2022 Write copy for both lifecycle flows and campaigns, tailored to audience stage, offer, and brand voice\n\n\u2022 Collaborate in ClickUp with strategy and design to move work from brief to delivery on schedule\n\n\u2022 Apply DTC email best practices for voice, scannability, mobile readability, and brand consistency\n\n\u2022 Use Klaviyo to reference past performance, segments, and triggers when writing copy\n\n\u2022 Communicate with clients for ideation and input when needed, keeping turnaround fast\n\n\u2022 Proof, QA, and hand off clean copy with clear notes for designers and implementers\n\nWhat We're Looking For\n\n\u2022 1-3 years writing email copy for DTC or e-commerce brands, with samples of both flows and campaigns\n\n\u2022 Hands-on experience using AI (e.g. Claude) to ideate and draft, while editing output to a human, on-brand voice\n\n\u2022 Strong grasp of DTC email best practices, including subject lines, CTAs, and offer framing\n\n\u2022 Working familiarity with Klaviyo and ClickUp (or similar tools) to navigate briefs, data, and deadlines\n\n\u2022 Knowledge of segmentation, personalization, and A/B testing frameworks in retention marketing\n\n\u2022 Systems thinker who can produce at scale without repeating angles or diluting brand voice\n\n\u2022 Creative problem-solver who can generate fresh angles even when briefs are thin or repetitive\n\n\u2022 Proactive communicator with fast execution, able to flag blockers early and keep work moving\n\n\u2022 Strong attention to detail and a thoughtful, methodical approach that reduces revisions\n\n\u2022 Bonus: experience writing across multiple DTC verticals (fashion, beauty, lifestyle, wellness)\n\nKey Performance Metrics (KPIs)\n\n\u2022 Deliver 150-200 marketing emails per month across 10 brands on time and to spec\n\n\u2022 Maintain originality across campaigns with fresh angles, hooks, and messaging, confirmed via internal review and client feedback\n\n\u2022 Average one round of edits or fewer per campaign, with minimal hand-holding from management\n\n\u2022 Meet weekly throughput targets without creating downstream bottlenecks for design or strategy\n\n\u2022 30/60/90-day ramp: By day 30, fully onboarded on all 10 brand voices and hitting daily output with supervision. By day 60, producing at full volume with consistent quality and minimal revisions. By day 90, operating independently across all brands with confident angle generation and clean handoffs\n\nWhat You Get\n\n\u2022 Competitive compensation discussed individually based on experience and location\n\n\u2022 Remote-first role with flexible hours and overlap expectations across GMT+1 and GMT+10\n\n\u2022 Largely independent workflow, roughly 80% solo execution with focused team collaboration touchpoints\n\n\u2022 Exposure to 10 DTC brands across multiple verticals, expanding your portfolio and pattern recognition\n\n\u2022 Clear KPIs, written-first communication, and a low-meeting culture focused on output\n\n\u2022 Back-office support from Mint Source for payroll, onboarding, and HR\n\nLocation\n\nRemote\n\nEmployment Type\n\nFull-Time",
     "job_is_remote": true,
-    "job_posted_at": "28 days ago",
+    "job_posted_at": "29 days ago",
     "job_posted_at_timestamp": 1776816000,
     "job_posted_at_datetime_utc": "2026-04-22T00:00:00.000Z",
     "job_location": "Anywhere",
@@ -2927,8 +2927,8 @@
     "job_onet_soc": null,
     "job_onet_job_zone": null,
     "employer_reviews": null,
-    "fit_score": 62,
-    "evaluation_reason": "This email copywriter role aligns well with your remote and British time zone preferences, and your strong email marketing skills. However, its high-volume, AI-assisted output for DTC brands may not fully leverage your broader strategic expertise or meet your aspirations for writing for high-intellect publications."
+    "fit_score": 60,
+    "evaluation_reason": "The role aligns well with Natalie's core email copywriting and funnel skills, and perfectly meets her remote and British time zone constraints. However, it presents a significant mismatch with her desired quality standard of writing for high-intellect publications and explicitly requires AI experience not detailed on her CV."
   },
   {
     "job_id": "HIg5bxuj1nNoNLGLAAAAAA==",
@@ -3207,26 +3207,26 @@
     "evaluation_reason": "The role perfectly matches your extensive copywriting, funnel strategy, and niche experience, and is remote as preferred. However, the job's explicit preference for PST candidates directly conflicts with your critical 'must align with a British Time Zone' constraint."
   },
   {
-    "job_id": "cq2dgYt_M3Lmr3nkAAAAAA==",
-    "job_title": "Senior Copywriter (Fully Remote)",
-    "employer_name": "PadSplit",
-    "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZ3zJShplMEVVqMFISJb4F-qHciTbA9q2aU6wU&s=0",
-    "employer_website": "https://www.padsplit.com",
-    "job_publisher": "Himalayas",
+    "job_id": "aw-0HXC9rYOdf3ZzAAAAAA==",
+    "job_title": "Email / SMS Copywriter (AI First)",
+    "employer_name": "StartVim",
+    "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTff7R6Z5Dot3MSMpRJ3GFecNKhObBV-qYYKBaT&s=0",
+    "employer_website": "https://startvim.com",
+    "job_publisher": "DailyRemote",
     "job_employment_type": "Full-time",
     "job_employment_types": [
       "FULLTIME"
     ],
-    "job_apply_link": "https://himalayas.app/companies/padsplit/jobs/senior-copywriter-fully-remote-7271121295",
+    "job_apply_link": "https://dailyremote.com/remote-job/email-sms-copywriter-ai-first-4576824",
     "job_apply_is_direct": false,
     "apply_options": [
       {
-        "apply_link": "https://himalayas.app/companies/padsplit/jobs/senior-copywriter-fully-remote-7271121295",
+        "apply_link": "https://dailyremote.com/remote-job/email-sms-copywriter-ai-first-4576824",
         "is_direct": false,
-        "publisher": "Himalayas"
+        "publisher": "DailyRemote"
       }
     ],
-    "job_description": "The Role We Need:\n\nPadSplit is looking for a Senior Copywriter to help tell our story and scale our impact. As we grow, we need a strategic storyteller who can communicate our mission into compelling content that drives awareness, engagement, and growth. This role will play a key part in shaping how PadSplit communicates with hosts, members, investors, policymakers, and the broader housing community.\nThe Person We Are Looking For:\n\nWe\u2019re looking for a seasoned content strategist and storyteller who can balance creativity with strategy in a dynamic environment. The right candidate knows how to break down complex ideas into clear, persuasive content that drives action and supports business growth. They take ownership of content initiatives and are always looking for ways to improve performance and expand reach. This person is naturally curious, uses data and audience insights to refine their approach, and continuously evolves their craft to deliver stronger results over time.\n\nHere\u2019s What You\u2019ll Do Day-To-Day:\n\u2022 Content Strategy & Leadership: Own PadSplit\u2019s content strategy across web, blog, and social to drive growth and visibility.\n\u2022 Editorial Planning: Co-manage the editorial calendar, aligning content with business goals and seasonal opportunities.\n\u2022 Full-Funnel Content: Create content that supports every stage of the customer journey.\n\u2022 Lead Generation & Campaigns: Develop gated assets and high-converting landing pages to drive qualified leads and growth.\n\u2022 SEO & Distribution: Lead SEO initiatives and execute multi-channel distribution strategies to maximize reach and inbound demand.\n\u2022 Audience Insights: Leverage research and customer insights to refine messaging and identify opportunities.\n\u2022 Cross-Functional Collaboration: Partner with marketing and other teams to ensure alignment and consistency.\n\u2022 Performance & Optimization: Track KPIs, optimize content through testing, and build scalable processes for efficient production.\n\nHere\u2019s What You\u2019ll Need To Be Successful:\n\u2022 Content Expertise: 8+ years of experience in content marketing with a strong track record of execution.\n\u2022 Strategic Leadership: Ability to build and scale content programs end-to-end, from strategy to execution.\n\u2022 Cross-Functional Collaboration: Experience partnering with product, growth, design, and leadership teams.\n\u2022 Marketplace Experience: Background creating content for marketplaces or multi-audience (B2C/B2B) environments.\n\u2022 Writing & Storytelling: Exceptional writing, editing, and persuasive storytelling skills.\n\u2022 Technical & Analytical Skills: Proficiency with tools like WordPress, Google Analytics, and SEO platforms.\n\u2022 Results Orientation: Data-driven, self-starter focused on measurable impact and continuous improvement.\n\u2022 Startup Mindset: Adaptable, curious, and creative, with experience thriving in fast-paced, early-stage environments.\n\nThe Interview Process:\n\u2022 Your application will be reviewed for possible next steps by the Hiring Manager.\n\u2022 If you meet eligibility requirements, the next step would be a phone screen with a member of the PeopleOps team for about thirty (30) minutes.\n\u2022 If warranted, the next steps would be a video interview with our Senior Director of Content for one (1) hour.\n\u2022 If warranted, the final step would be a video panel interview with key stakeholders at PadSplit for one (1) hour.\n\u2022 The panel interview will require a candidate to work on a content assessment where you will showcase your writing skills to the panel for discussion.\n\u2022 If warranted, then we move to offer!\n\nPlease note: Although the job posting says it's in Atlanta, Georgia, this is a fully remote position. This is a result of our Applicant Tracking System requiring a location to post the role on LinkedIn.\nNotice to Applicants:\nPadSplit participates in E-Verify. All new employees are required to complete an I-9 form and be authorized to work in the United States. Employment is contingent upon successful completion of the E-Verify process.\nPadSplit is an Equal Opportunity Employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability, or status as a protected veteran.",
+    "job_description": "We're an innovative e-comm and healthcare brand building something big and straightforward: the best place for those over 45 to get real health care that helps them feel strong, healthy, and happy as they get older. Separately, we also buy and grow businesses that are leaders in their niches.\n\n\ud83e\udde9 WHO WE ARE & HOW WE OPERATE\nWe're a hard-driving, fast-paced team of continuous improvers\u2014a team, not a family\u2014hiring and developing stars (leaders) in every role. We live by six core beliefs that drive massive success:\n\nRemarkable: Go the extra mile to create jaw-dropping experiences (JDCE) that turn first-timers into re-order loyalists-we're in the reorder business. Develop unique superpowers; do what competitors won't.\n\nAdaptable: Lifelong learners who grow or die-learn fast, fail fast, grab ideas anywhere, simplify everything, and proactively fix/improve everything around you.\n\nAccountable: Own your outcomes like it's your company - be demanding yet supportive, 100% responsibility, share updates in Slack/Kustomer (our collective brain), own mistakes and fix them fast.\n\nSpeed is King: Act now over perfection; good executed today beats perfect next week. Maniacal urgency, get sh*t done measurably, predisposed to action and efficiency.\n\nDon't Sugar Coat It: Tell the truth straight - tough talks help growth; - uncomfortable conversations fuel progress; no avoidance, speak up respectfully.\n\nHumble: Think of the business first - admit gaps, share wins, own losses, pick what's right over who's right.\nRole:\n\nWe are looking for a sharp, creative, fast, AI-First Email/SMS Copy Manager to join the team. This is a role for someone who loves email, understands how to develop and iterate on a brand, understands how to write copy that HOLDS ATTENTION, and knows how to use AI as a co-pilot\u2026\n\n\u2026not a crutch.\n\nYou\u2019ll own copywriting for 1 brand responsible for creating high-converting, brand-aligned email campaigns and flows\u2014averaging 30+ emails & 30+ sms, per month. From product (warm up sequences) to educational content, to lead nurture (working to convert qualified leads into sales) to flows that touch the entire customer journey, you'll create everything from scratch or refine AI-generated drafts with exceptional taste and judgment, to make sure that every email is both human and refined. Given our client-base, native-level English is a must for this role.\n\n\ud83c\udfafKey Responsibilities:\n\nOptimize deliverability via klaviyo or sendlane or beehiv\n\nWrite, edit, and optimize email campaigns and automated flows (including welcome, nurture, retention, product launches, promos, etc.)\n\nManage copy calendars and deliverables across 2 brands\n\nUse AI tools (ChatGPT, Claude, etc.) to brainstorm, outline, and draft faster\u2014without compromising brand voice or quality\n\nWork closely to align copy direction with client needs and performance insights\u2014adjusting messaging based on trends in metrics like opens,clicks, and conversions\n\nCollaborate with designers and project managers to bring each email to life with compelling copy and cohesive visual direction\n\nOwn voice adaptation for each brand, maintaining consistency and tone across messages\n\nCreate A/B variants for subject lines, headers, and call-to-actions\u2014and synthesize learnings to improve future performance\n\nCollaborate with strategists and designers to bring each email to life with compelling copy + visual cohesion\n\nMaintain fast-paced, high-quality output within a repeatable, efficient process\n\n\ud83c\udfaf You\u2019re Perfect If You:\n\nHave 3 to 5 years of copywriting experience, ideally in email, DTC, or digital performance marketing\n\nKnow how to write fast and well, particularly with AI\n\nAre comfortable managing multiple brand voices\n\nKnow how to test creatively (and interpret results intelligently)\n\nCan handle high-volume copy demands without sacrificing taste or clarity\n\n\ud83c\udfafWhat you get:\n\nStable, predictable income (no chasing clients or lessons)\n\nRemote freedom (webcam + fast internet required)\n\nGrowth track\u2014top performers level up fast & can move to sales, marketing, ops, leadership\n\nBe part of building something huge in longevity (helping customers live longer, healthier-meaningful AF\n\nTools You Might Use:\n\nChatGPT, Claude, Jasper.ai Copy.ai (or similar)\n\nKlaviyo, Figma, Google Docs, Trello, Slack\n\nWhat we expect from you:\n\nHigh work ethic (Monday-Saturday)\n\nBe a team player committed to client wins.\n\nBenefits\n\nThe stuff below is cool as well.\n\u2022 Remote: our team is fully distributed across the world and functions fully remotely.\n\u2022 Personal development: budget for books, courses, coaching.\n\u2022 Personal wellness: budget for gym, health apps.\n\u2022 What are we missing? We're still early so you get to shape our culture.\n\nHow to apply\n\u2022 Apply here on ashby\n\u2022 Next Fill out the assessment at superhumanplan.com",
     "job_is_remote": true,
     "job_posted_at": null,
     "job_posted_at_timestamp": null,
@@ -3239,18 +3239,18 @@
     "job_longitude": null,
     "job_benefits": null,
     "job_benefits_strings": null,
-    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3Dcq2dgYt_M3Lmr3nkAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3Daw-0HXC9rYOdf3ZzAAAAAA%3D%3D&vssid=jobs-detail-viewer",
     "job_salary": null,
-    "job_salary_string": "80K\u201390K a year",
-    "job_min_salary": 80000,
-    "job_max_salary": 90000,
-    "job_salary_period": "YEAR",
+    "job_salary_string": null,
+    "job_min_salary": null,
+    "job_max_salary": null,
+    "job_salary_period": null,
     "job_highlights": {},
     "job_onet_soc": null,
     "job_onet_job_zone": null,
     "employer_reviews": null,
-    "fit_score": 58,
-    "evaluation_reason": "Your core copywriting and strategic skills, along with remote and role type preferences, are an excellent match. However, the job's housing marketplace niche does not align with your preferred wellness/personal development content, and the British Time Zone constraint is likely not met, significantly impacting the fit."
+    "fit_score": 60,
+    "evaluation_reason": "The role strongly aligns with your email, funnel, and launch copywriting skills, and the health/wellness niche. However, the job description does not provide any indication that it aligns with a British time zone, which is a critical constraint for you."
   },
   {
     "job_id": "yR2WX5jnTkfLY9x5AAAAAA==",
@@ -3351,26 +3351,26 @@
     "evaluation_reason": "The role aligns well with your remote and non-Marketing Manager preferences, and your strong conceptual and strategic copywriting skills. However, it lacks specified alignment with your desired content niches and the explicit quality standard of high-intellect/lifestyle publications you seek."
   },
   {
-    "job_id": "aw-0HXC9rYOdf3ZzAAAAAA==",
-    "job_title": "Email / SMS Copywriter (AI First)",
-    "employer_name": "StartVim",
-    "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTff7R6Z5Dot3MSMpRJ3GFecNKhObBV-qYYKBaT&s=0",
-    "employer_website": "https://startvim.com",
-    "job_publisher": "DailyRemote",
+    "job_id": "cq2dgYt_M3Lmr3nkAAAAAA==",
+    "job_title": "Senior Copywriter (Fully Remote)",
+    "employer_name": "PadSplit",
+    "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZ3zJShplMEVVqMFISJb4F-qHciTbA9q2aU6wU&s=0",
+    "employer_website": "https://www.padsplit.com",
+    "job_publisher": "Himalayas",
     "job_employment_type": "Full-time",
     "job_employment_types": [
       "FULLTIME"
     ],
-    "job_apply_link": "https://dailyremote.com/remote-job/email-sms-copywriter-ai-first-4576824",
+    "job_apply_link": "https://himalayas.app/companies/padsplit/jobs/senior-copywriter-fully-remote-7271121295",
     "job_apply_is_direct": false,
     "apply_options": [
       {
-        "apply_link": "https://dailyremote.com/remote-job/email-sms-copywriter-ai-first-4576824",
+        "apply_link": "https://himalayas.app/companies/padsplit/jobs/senior-copywriter-fully-remote-7271121295",
         "is_direct": false,
-        "publisher": "DailyRemote"
+        "publisher": "Himalayas"
       }
     ],
-    "job_description": "We're an innovative e-comm and healthcare brand building something big and straightforward: the best place for those over 45 to get real health care that helps them feel strong, healthy, and happy as they get older. Separately, we also buy and grow businesses that are leaders in their niches.\n\n\ud83e\udde9 WHO WE ARE & HOW WE OPERATE\nWe're a hard-driving, fast-paced team of continuous improvers\u2014a team, not a family\u2014hiring and developing stars (leaders) in every role. We live by six core beliefs that drive massive success:\n\nRemarkable: Go the extra mile to create jaw-dropping experiences (JDCE) that turn first-timers into re-order loyalists-we're in the reorder business. Develop unique superpowers; do what competitors won't.\n\nAdaptable: Lifelong learners who grow or die-learn fast, fail fast, grab ideas anywhere, simplify everything, and proactively fix/improve everything around you.\n\nAccountable: Own your outcomes like it's your company - be demanding yet supportive, 100% responsibility, share updates in Slack/Kustomer (our collective brain), own mistakes and fix them fast.\n\nSpeed is King: Act now over perfection; good executed today beats perfect next week. Maniacal urgency, get sh*t done measurably, predisposed to action and efficiency.\n\nDon't Sugar Coat It: Tell the truth straight - tough talks help growth; - uncomfortable conversations fuel progress; no avoidance, speak up respectfully.\n\nHumble: Think of the business first - admit gaps, share wins, own losses, pick what's right over who's right.\nRole:\n\nWe are looking for a sharp, creative, fast, AI-First Email/SMS Copy Manager to join the team. This is a role for someone who loves email, understands how to develop and iterate on a brand, understands how to write copy that HOLDS ATTENTION, and knows how to use AI as a co-pilot\u2026\n\n\u2026not a crutch.\n\nYou\u2019ll own copywriting for 1 brand responsible for creating high-converting, brand-aligned email campaigns and flows\u2014averaging 30+ emails & 30+ sms, per month. From product (warm up sequences) to educational content, to lead nurture (working to convert qualified leads into sales) to flows that touch the entire customer journey, you'll create everything from scratch or refine AI-generated drafts with exceptional taste and judgment, to make sure that every email is both human and refined. Given our client-base, native-level English is a must for this role.\n\n\ud83c\udfafKey Responsibilities:\n\nOptimize deliverability via klaviyo or sendlane or beehiv\n\nWrite, edit, and optimize email campaigns and automated flows (including welcome, nurture, retention, product launches, promos, etc.)\n\nManage copy calendars and deliverables across 2 brands\n\nUse AI tools (ChatGPT, Claude, etc.) to brainstorm, outline, and draft faster\u2014without compromising brand voice or quality\n\nWork closely to align copy direction with client needs and performance insights\u2014adjusting messaging based on trends in metrics like opens,clicks, and conversions\n\nCollaborate with designers and project managers to bring each email to life with compelling copy and cohesive visual direction\n\nOwn voice adaptation for each brand, maintaining consistency and tone across messages\n\nCreate A/B variants for subject lines, headers, and call-to-actions\u2014and synthesize learnings to improve future performance\n\nCollaborate with strategists and designers to bring each email to life with compelling copy + visual cohesion\n\nMaintain fast-paced, high-quality output within a repeatable, efficient process\n\n\ud83c\udfaf You\u2019re Perfect If You:\n\nHave 3 to 5 years of copywriting experience, ideally in email, DTC, or digital performance marketing\n\nKnow how to write fast and well, particularly with AI\n\nAre comfortable managing multiple brand voices\n\nKnow how to test creatively (and interpret results intelligently)\n\nCan handle high-volume copy demands without sacrificing taste or clarity\n\n\ud83c\udfafWhat you get:\n\nStable, predictable income (no chasing clients or lessons)\n\nRemote freedom (webcam + fast internet required)\n\nGrowth track\u2014top performers level up fast & can move to sales, marketing, ops, leadership\n\nBe part of building something huge in longevity (helping customers live longer, healthier-meaningful AF\n\nTools You Might Use:\n\nChatGPT, Claude, Jasper.ai Copy.ai (or similar)\n\nKlaviyo, Figma, Google Docs, Trello, Slack\n\nWhat we expect from you:\n\nHigh work ethic (Monday-Saturday)\n\nBe a team player committed to client wins.\n\nBenefits\n\nThe stuff below is cool as well.\n\u2022 Remote: our team is fully distributed across the world and functions fully remotely.\n\u2022 Personal development: budget for books, courses, coaching.\n\u2022 Personal wellness: budget for gym, health apps.\n\u2022 What are we missing? We're still early so you get to shape our culture.\n\nHow to apply\n\u2022 Apply here on ashby\n\u2022 Next Fill out the assessment at superhumanplan.com",
+    "job_description": "The Role We Need:\n\nPadSplit is looking for a Senior Copywriter to help tell our story and scale our impact. As we grow, we need a strategic storyteller who can communicate our mission into compelling content that drives awareness, engagement, and growth. This role will play a key part in shaping how PadSplit communicates with hosts, members, investors, policymakers, and the broader housing community.\nThe Person We Are Looking For:\n\nWe\u2019re looking for a seasoned content strategist and storyteller who can balance creativity with strategy in a dynamic environment. The right candidate knows how to break down complex ideas into clear, persuasive content that drives action and supports business growth. They take ownership of content initiatives and are always looking for ways to improve performance and expand reach. This person is naturally curious, uses data and audience insights to refine their approach, and continuously evolves their craft to deliver stronger results over time.\n\nHere\u2019s What You\u2019ll Do Day-To-Day:\n\u2022 Content Strategy & Leadership: Own PadSplit\u2019s content strategy across web, blog, and social to drive growth and visibility.\n\u2022 Editorial Planning: Co-manage the editorial calendar, aligning content with business goals and seasonal opportunities.\n\u2022 Full-Funnel Content: Create content that supports every stage of the customer journey.\n\u2022 Lead Generation & Campaigns: Develop gated assets and high-converting landing pages to drive qualified leads and growth.\n\u2022 SEO & Distribution: Lead SEO initiatives and execute multi-channel distribution strategies to maximize reach and inbound demand.\n\u2022 Audience Insights: Leverage research and customer insights to refine messaging and identify opportunities.\n\u2022 Cross-Functional Collaboration: Partner with marketing and other teams to ensure alignment and consistency.\n\u2022 Performance & Optimization: Track KPIs, optimize content through testing, and build scalable processes for efficient production.\n\nHere\u2019s What You\u2019ll Need To Be Successful:\n\u2022 Content Expertise: 8+ years of experience in content marketing with a strong track record of execution.\n\u2022 Strategic Leadership: Ability to build and scale content programs end-to-end, from strategy to execution.\n\u2022 Cross-Functional Collaboration: Experience partnering with product, growth, design, and leadership teams.\n\u2022 Marketplace Experience: Background creating content for marketplaces or multi-audience (B2C/B2B) environments.\n\u2022 Writing & Storytelling: Exceptional writing, editing, and persuasive storytelling skills.\n\u2022 Technical & Analytical Skills: Proficiency with tools like WordPress, Google Analytics, and SEO platforms.\n\u2022 Results Orientation: Data-driven, self-starter focused on measurable impact and continuous improvement.\n\u2022 Startup Mindset: Adaptable, curious, and creative, with experience thriving in fast-paced, early-stage environments.\n\nThe Interview Process:\n\u2022 Your application will be reviewed for possible next steps by the Hiring Manager.\n\u2022 If you meet eligibility requirements, the next step would be a phone screen with a member of the PeopleOps team for about thirty (30) minutes.\n\u2022 If warranted, the next steps would be a video interview with our Senior Director of Content for one (1) hour.\n\u2022 If warranted, the final step would be a video panel interview with key stakeholders at PadSplit for one (1) hour.\n\u2022 The panel interview will require a candidate to work on a content assessment where you will showcase your writing skills to the panel for discussion.\n\u2022 If warranted, then we move to offer!\n\nPlease note: Although the job posting says it's in Atlanta, Georgia, this is a fully remote position. This is a result of our Applicant Tracking System requiring a location to post the role on LinkedIn.\nNotice to Applicants:\nPadSplit participates in E-Verify. All new employees are required to complete an I-9 form and be authorized to work in the United States. Employment is contingent upon successful completion of the E-Verify process.\nPadSplit is an Equal Opportunity Employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability, or status as a protected veteran.",
     "job_is_remote": true,
     "job_posted_at": null,
     "job_posted_at_timestamp": null,
@@ -3383,18 +3383,18 @@
     "job_longitude": null,
     "job_benefits": null,
     "job_benefits_strings": null,
-    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3Daw-0HXC9rYOdf3ZzAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3Dcq2dgYt_M3Lmr3nkAAAAAA%3D%3D&vssid=jobs-detail-viewer",
     "job_salary": null,
-    "job_salary_string": null,
-    "job_min_salary": null,
-    "job_max_salary": null,
-    "job_salary_period": null,
+    "job_salary_string": "80K\u201390K a year",
+    "job_min_salary": 80000,
+    "job_max_salary": 90000,
+    "job_salary_period": "YEAR",
     "job_highlights": {},
     "job_onet_soc": null,
     "job_onet_job_zone": null,
     "employer_reviews": null,
     "fit_score": 55,
-    "evaluation_reason": "While the role aligns well with Natalie's email marketing, direct response, and niche expertise in wellness/personal development, it appears more tactical and high-volume than her strategic architect experience suggests. Crucially, the job description does not confirm remote work or British time zone alignment, which are strict requirements."
+    "evaluation_reason": "While Natalie's extensive core copywriting, funnel, and launch skills are an excellent match for this senior remote role, and the job title aligns with her preferences, the core content niche (housing/marketplace) and company aesthetic are significantly misaligned with her expressed desire to work with wellness, personal development, and conscious living brands. Additionally, the British time zone constraint is not explicitly addressed by the 'fully remote' designation, posing a potential mismatch."
   },
   {
     "job_id": "h39rd5FArgvkdnkWAAAAAA==",
@@ -4052,6 +4052,52 @@
     "evaluation_reason": "While the role is remote and aligns with general copywriting skills, it significantly misses the mark on your desired content niche (freelancers vs. transformational wellness) and the strategic depth of funnel/launch work highlighted in your CV. The company's aesthetic and target platform also diverge from your stated preferences."
   },
   {
+    "job_id": "xgP-3EwyZXODPkfZAAAAAA==",
+    "job_title": "Senior Copywriter / Ad Creative Strategist (Remote Full Time, 6-10K USD Per Mo)",
+    "employer_name": "Impact Clients",
+    "employer_logo": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://go.impactclients.co&size=128",
+    "employer_website": "https://go.impactclients.co",
+    "job_publisher": "Indeed",
+    "job_employment_type": "Full-time",
+    "job_employment_types": [
+      "FULLTIME"
+    ],
+    "job_apply_link": "https://www.indeed.com/viewjob?jk=d563f90e8bc3d207",
+    "job_apply_is_direct": false,
+    "apply_options": [
+      {
+        "apply_link": "https://www.indeed.com/viewjob?jk=d563f90e8bc3d207",
+        "is_direct": false,
+        "publisher": "Indeed"
+      }
+    ],
+    "job_description": "Are you the type of person who can look at an Ad or a Funnel\u2026 and instantly see what the offer is missing?\n\nDo you love funnel hacking other people's ads, VSLs, high ticket coaching offers, low ticket offers, and enjoy coming up with dangerously unique marketing angles, unique mechanisms, and hooks that scroll stop on ads and make people buy?\n\nDo you get excited by the idea of making faceless or AI Avatar ads that generate high ROAS and to work on VSL and low ticket offer funnels that are faceless/brandless?\n\nIf yes, keep reading.\n\nBecause this is not a \u201cwrite some copy and hop on meetings\u201d role.\n\nWe\u2019re hiring a Performance Markter/Creative Strategist to be an engine to generate ads for our offers.\n\nYour job is simple to explain, hard to do:\n\nGenerate a massive volume of winning ads to fuel 7-figure ad funnels and make new offers scale to $1M/month in ad spend on cold META traffic.\nAbout Richard Yu\nFounded in 2019, Richard started as a broke college student at UCLA with student debt, and created a $500 digital product teaching college students how to wake up early and have better habits.\n\nThat product did over $500,000 USD in less than 8 months because Richard \"cracked\" the formula for how to sell a digital product online.\n\nLater that year, he pivoted into consulting others (personal trainers, doctors, dentists, coaches) on how to scale their info / digital product businesses, and in the last 5 years, this business has now scaled to over $30M in sales, and we have served well over 5,000 clients.\n\nOur mission is simple: To help ordinary people (9-5ers, stay at home parents, college students) build extraordinary online businesses and learn high-income skills.\n\nAnd most importantly, we put the client results at the top of our priorities, and do our very best to fulfill on the promises we make to our clients.\n\nThe core value #1 of our company is: Client Success = Company Success.\n\nOver the last few years, we have primarily run our business with the following funnel:\n\nOrganic content (and paid ads) -> 20 minute VSL funnel -> book a sales call -> talk to closer -> sell a high ticket offer.\n\nNow, the company is moving toward a low-ticket, faceless funnel model, so growth is no longer bottlenecked by the founder making content.\n\nWe help beginners start their own digital product businesses, and we sell low ticket, mid ticket, and high ticket digital products that help them learn how to sell digital products.\n\nWe currently have a Head of Marketing who owns analytics, performance tracking, and coordination across different deparmtents\n\nWhat we are missing is a Creative Strategiest / Senior Copywriter, who can come up with tons of winning ads and also contribute to coming up with all the unique offer angles and ad angles that cut through the noise in this competitive \u201cmake money online\u201d landscape.\n\nIn this role, you would be the creative weapon.\n\nThe offer brain.\n\nThe copy brain.\n\nThe person who invents the ads to get our products scaled.\nWhat You\u2019ll Be Doing1) Ad Angles + Ad Copy (End-to-End)\n\n\u2022 Create ad concepts, hooks, and angles aligned with each offer\n\n\u2022 Write complete ad copy for:\n\n\u2022\n\n\u2022 Meta ads\n\n\u2022 YouTube ads\n\n\u2022 Instagram reels\n\n\u2022 Any paid traffic channel we deploy\n\n\u2022 Work with our editors and graphics designers to transform your copy into ads that convert\n\n\u2022\n\n\u2022 If you can make ads entirely by yourself, that's even better\n\n\u2022 Maintain message-market consistency from ad VSL page checkout\n\n2) Assist with Offer Creation (Faceless-First)\n\n\u2022 Work with the founder, Richard to create new low-ticket offers from scratch (concept name mechanism deliverables)\n\n\u2022 Contribute with building offers that are designed to break even or better on cold traffic\n\nPerformance requirement:\n\nYour offers must be able to hold at least a 1.5x ROAS breakeven or higher on cold Meta traffic, with the mid-term goal (less than 3-6 months from today) of scaling to:\n\n\u2022 $1,000,000+ per month in ad spend\n\n\u2022 Roughly $30K\u2013$40K/day on Meta.\n\nBy offers, we define low ticket offers as anything that can be sold on a landing page (with or without VSL), and WITHOUT any type of sales person (no chat sales, no texting sales, no sales calls with a closer/setter on the front end landing page).\n\n3) VSL Writing (Word-for-Word Scripts)\n\n\u2022 Work with the founder to write full, word-for-word VSL scripts designed for:\n\n\u2022\n\n\u2022 AI avatar VSLs\n\n\u2022 Actor-read VSLs\n\n\u2022 Voiceover + b-roll / stock footage\n\n\u2022 Ensure scripts are production-ready, clean, and conversion-focused\n\n\u2022 No founder recording presence required, faceless is the default\n\n4) Funnel Messaging Ownership\n\n\u2022 Own the conversion narrative across the entire funnel\n\n\u2022 Collaborate with the Head of Marketing to iterate based on performance data\n\nRequirements\n\nYou Must Have:\n\n\u2022 Real direct-response experience (offers, VSLs, ads \u2014 not brand fluff)\n\n\u2022 A track record of writing winning ads for scaled offers, including coming up with new concepts, not just rewriting what already exists\n\n\u2022 A strong understanding of cold traffic psychology, especially low-ticket offers\n\n\u2022 A track record of writing copy that\u2019s simple, clear, emotionally sharp, and scalable\n\n\u2022 A preference for deep work over meetings (this role is ~90% creation)\n\nBig bonuses (not required):\n\n\u2022 You\u2019ve scaled low-ticket offers before\n\n\u2022 You\u2019ve built faceless funnels\nYou\u2019ve worked in info, education, or subscription businesses in biz opp space.\n\nBenefits\n\nBenefits of this role\n\n\u2022 High performance team culture with an A-player team that is No BS, Get Sh*t Done type of attitude\n\n\u2022 Make a real difference in educating and inspiring beginners and 9-5ers on how to change their lives.\n\n\u2022 True growth opportunity into a c-suite level partner in the company.\n\n\u2022 Travel with our c-suite executive team to 2-3X team retreats per year globally (last year we did Dubai, Egypt, China, and Puerto Rico!) - Not required, but a bonus for those that like travel.\n\n\u2022 Real ownership over offers and messaging\n\n\u2022 Remote + flexible hours, deep thinking and creative work is the primary function of this role\n\nCompensation\nCompensation is intentionally open-ended and tied to skill level.\n\nThis role can be structured as:\nOption A: Performance Marketer & Creative Strategist / Senior Ads Copywriter Level\n\n\u2022 $6K\u2013$10K/month base salary\n\n\u2022 Performance-based bonuses tied to ads performance\n\nOption B: Chief Copywriter and Offer Creator / Partner-Level\n\n\u2022 Base salary + Meaningful upside, such as:\n\n\u2022\n\n\u2022 Bonuses per winning offer\n\n\u2022 Quarterly profit share bonuses based on performance\n\n\u2022 Ownership equity % in our company, as we are scaling to sell within the next 36 months @ 9-figure valuation for our sister company which is a SAAS, which recently received a low 8-figure valuation from private equity.\n\nWe pay for leverage. If you can build offers that scale, compensation will reflect that.\n\nIf this role is exciting to you, and you're still here, then we encourage you to apply quickly below.\n\nWe'll be in touch via Whatsapp and/or email to coordinate to have a chat!",
+    "job_is_remote": true,
+    "job_posted_at": null,
+    "job_posted_at_timestamp": null,
+    "job_posted_at_datetime_utc": null,
+    "job_location": "Anywhere",
+    "job_city": null,
+    "job_state": null,
+    "job_country": null,
+    "job_latitude": null,
+    "job_longitude": null,
+    "job_benefits": null,
+    "job_benefits_strings": null,
+    "job_google_link": "https://www.google.com/search?ibp=htl;jobs&q&htidocid=xgP-3EwyZXODPkfZAAAAAA%3D%3D&hl=en-US&shem=rimspwouoe&shndl=37&shmd=H4sIAAAAAAAA_xWOsW4CMRBElZZPoGHKgOBMkKCACh0iSqJIEQc18h3LnZHPa3k3CfnBfFecZqqZN2_w-zC4VhQcJ5Qcf76TU0ow2F5QJrLqvgiVJqvUOlE8HqhnJew_vcfR9TTFavY0f8Op2uEjL995jBleuYaQTU0HDnhmbj0NN51qlLUxIr5oRTO8KRruDQeq-W5uXMt_nKWziaLPn-fFcn4vYmgno5c-2kZRekdBBS7gFLLrJdvlovwBAy-wnMkAAAA&shmds=v1_ATWGeeP7_qMYFqwBLB0Am8_rjveKo877kN2ztLJI20dU8SAIIg&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq&htidocid=xgP-3EwyZXODPkfZAAAAAA%3D%3D",
+    "job_salary": null,
+    "job_salary_string": "72K\u2013150K a year",
+    "job_min_salary": 72000,
+    "job_max_salary": 150000,
+    "job_salary_period": "YEAR",
+    "job_highlights": {},
+    "job_onet_soc": null,
+    "job_onet_job_zone": null,
+    "employer_reviews": null,
+    "fit_score": 45,
+    "evaluation_reason": "While Natalie possesses strong direct response, funnel strategy, and ad copywriting skills relevant to the role, the job's 'make money online' niche and emphasis on 'faceless/brandless' ads significantly clashes with her preferred content niches (wellness/personal development) and desired aesthetic/quality standards for her brand voice."
+  },
+  {
     "job_id": "WNchacEYPdZPgrJxAAAAAA==",
     "job_title": "Content Manager/Copywriter at Compose.ly",
     "employer_name": "Compose.ly",
@@ -4543,26 +4589,26 @@
     "evaluation_reason": "Natalie's strong brand strategy, positioning, and messaging skills align well with the core requirements for strategic slogan development. However, the explicit need for a US-based writer, the niche focus on automotive outdoor accessories, and a mismatch in aesthetic alignment significantly reduce the overall fit."
   },
   {
-    "job_id": "SSlgzDaROW4zhh1tAAAAAA==",
-    "job_title": "Senior Copywriter / Ad Creative Strategist (Remote Full Time, 6-10K USD Per Mo)",
-    "employer_name": "Impact Clients",
-    "employer_logo": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://go.impactclients.co&size=128",
-    "employer_website": "https://go.impactclients.co",
-    "job_publisher": "Jobs By Workable",
+    "job_id": "V3kppYUoxF2pU7iyAAAAAA==",
+    "job_title": "Copywriter - Freelance [Remote]",
+    "employer_name": "Braintrust",
+    "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTE08ThhIOxYF4ya9QU8nK6BJoQyt2_hgfV2HoF&s=0",
+    "employer_website": "https://www.usebraintrust.com",
+    "job_publisher": "Karkidi",
     "job_employment_type": "Full-time",
     "job_employment_types": [
       "FULLTIME"
     ],
-    "job_apply_link": "https://apply.workable.com/impact-clients/j/42EB26B86D",
+    "job_apply_link": "https://www.karkidi.com/job-details/76753-copywriter-freelance-remote-job",
     "job_apply_is_direct": false,
     "apply_options": [
       {
-        "apply_link": "https://apply.workable.com/impact-clients/j/42EB26B86D",
+        "apply_link": "https://www.karkidi.com/job-details/76753-copywriter-freelance-remote-job",
         "is_direct": false,
-        "publisher": "Jobs By Workable"
+        "publisher": "Karkidi"
       }
     ],
-    "job_description": "Are you the type of person who can look at an Ad or a Funnel\u2026 and instantly see what the offer is missing?\n\nDo you love funnel hacking other people's ads, VSLs, high ticket coaching offers, low ticket offers, and enjoy coming up with dangerously unique marketing angles, unique mechanisms, and hooks that scroll stop on ads and make people buy?\n\nDo you get excited by the idea of making faceless or AI Avatar ads that generate high ROAS and to work on VSL and low ticket offer funnels that are faceless/brandless?\n\nIf yes, keep reading.\n\nBecause this is not a \u201cwrite some copy and hop on meetings\u201d role.\n\nWe\u2019re hiring a Performance Markter/Creative Strategist to be an engine to generate ads for our offers.\n\nYour job is simple to explain, hard to do:\n\nGenerate a massive volume of winning ads to fuel 7-figure ad funnels and make new offers scale to $1M/month in ad spend on cold META traffic.\nAbout Richard Yu\n\nFounded in 2019, Richard started as a broke college student at UCLA with student debt, and created a $500 digital product teaching college students how to wake up early and have better habits.\n\nThat product did over $500,000 USD in less than 8 months because Richard \"cracked\" the formula for how to sell a digital product online.\n\nLater that year, he pivoted into consulting others (personal trainers, doctors, dentists, coaches) on how to scale their info / digital product businesses, and in the last 5 years, this business has now scaled to over $30M in sales, and we have served well over 5,000 clients.\n\nOur mission is simple: To help ordinary people (9-5ers, stay at home parents, college students) build extraordinary online businesses and learn high-income skills.\n\nAnd most importantly, we put the client results at the top of our priorities, and do our very best to fulfill on the promises we make to our clients.\n\nThe core value #1 of our company is: Client Success = Company Success.\n\nOver the last few years, we have primarily run our business with the following funnel:\n\nOrganic content (and paid ads) --> 20 minute VSL funnel --> book a sales call --> talk to closer --> sell a high ticket offer.\nNow, the company is moving toward a low-ticket, faceless funnel model, so growth is no longer bottlenecked by the founder making content.\n\nWe help beginners start their own digital product businesses, and we sell low ticket, mid ticket, and high ticket digital products that help them learn how to sell digital products.\n\nWe currently have a Head of Marketing who owns analytics, performance tracking, and coordination across different deparmtents\n\nWhat we are missing is a Creative Strategiest / Senior Copywriter, who can come up with tons of winning ads and also contribute to coming up with all the unique offer angles and ad angles that cut through the noise in this competitive \u201cmake money online\u201d landscape.\n\nIn this role, you would be the creative weapon.\nThe offer brain.\nThe copy brain.\nThe person who invents the ads to get our products scaled.\nWhat You\u2019ll Be Doing\n1) Ad Angles + Ad Copy (End-to-End)\n\u2022 Create ad concepts, hooks, and angles aligned with each offer\n\u2022 Write complete ad copy for:\n\u2022 Meta ads\n\u2022 YouTube ads\n\u2022 Instagram reels\n\u2022 Any paid traffic channel we deploy\n\u2022 Work with our editors and graphics designers to transform your copy into ads that convert\n\u2022 If you can make ads entirely by yourself, that's even better\n\u2022 Maintain message-market consistency from ad \u2192 VSL \u2192 page \u2192 checkout\n\n2) Assist with Offer Creation (Faceless-First)\n\u2022 Work with the founder, Richard to create new low-ticket offers from scratch (concept \u2192 name \u2192 mechanism \u2192 deliverables)\n\u2022 Contribute with building offers that are designed to break even or better on cold traffic\n\nPerformance requirement:\nYour offers must be able to hold at least a 1.5x ROAS breakeven or higher on cold Meta traffic, with the mid-term goal (less than 3-6 months from today) of scaling to:\n\u2022 $1,000,000+ per month in ad spend\n\u2022 Roughly $30K\u2013$40K/day on Meta.\n\nBy offers, we define low ticket offers as anything that can be sold on a landing page (with or without VSL), and WITHOUT any type of sales person (no chat sales, no texting sales, no sales calls with a closer/setter on the front end landing page).\n\n3) VSL Writing (Word-for-Word Scripts)\n\u2022 Work with the founder to write full, word-for-word VSL scripts designed for:\n\u2022 AI avatar VSLs\n\u2022 Actor-read VSLs\n\u2022 Voiceover + b-roll / stock footage\n\u2022 Ensure scripts are production-ready, clean, and conversion-focused\n\u2022 No founder recording presence required, faceless is the default\n\n4) Funnel Messaging Ownership\n\u2022 Own the conversion narrative across the entire funnel\n\u2022 Collaborate with the Head of Marketing to iterate based on performance data\n\nYou Must Have:\n\u2022 Real direct-response experience (offers, VSLs, ads \u2014 not brand fluff)\n\u2022 A track record of writing winning ads for scaled offers, including coming up with new concepts, not just rewriting what already exists\n\u2022 A strong understanding of cold traffic psychology, especially low-ticket offers\n\u2022 A track record of writing copy that\u2019s simple, clear, emotionally sharp, and scalable\n\u2022 A preference for deep work over meetings (this role is ~90% creation)\n\nBig bonuses (not required):\n\u2022 You\u2019ve scaled low-ticket offers before\n\u2022 You\u2019ve built faceless funnels\n\u2022 You\u2019ve worked in info, education, or subscription businesses in biz opp space.\n\nBenefits of this role\n\u2022 High performance team culture with an A-player team that is No BS, Get Sh*t Done type of attitude\n\u2022 Make a real difference in educating and inspiring beginners and 9-5ers on how to change their lives.\n\u2022 True growth opportunity into a c-suite level partner in the company.\n\u2022 Travel with our c-suite executive team to 2-3X team retreats per year globally (last year we did Dubai, Egypt, China, and Puerto Rico!) - Not required, but a bonus for those that like travel.\n\u2022 Real ownership over offers and messaging\n\u2022 Remote + flexible hours, deep thinking and creative work is the primary function of this role\n\n\ud83d\udcb0 Compensation\n\nCompensation is intentionally open-ended and tied to skill level.\n\nThis role can be structured as:\nOption A: Performance Marketer & Creative Strategist / Senior Ads Copywriter Level\n\u2022 $6K\u2013$10K/month base salary\n\u2022 Performance-based bonuses tied to ads performance\nOption B: Chief Copywriter and Offer Creator / Partner-Level\n\u2022 Base salary + Meaningful upside, such as:\n\u2022 Bonuses per winning offer\n\u2022 Quarterly profit share bonuses based on performance\n\u2022 Ownership equity % in our company, as we are scaling to sell within the next 36 months @ 9-figure valuation for our sister company which is a SAAS, which recently received a low 8-figure valuation from private equity.\n\nWe pay for leverage. If you can build offers that scale, compensation will reflect that.\n\nIf this role is exciting to you, and you're still here, then we encourage you to apply quickly below.\n\nWe'll be in touch via Whatsapp and/or email to coordinate to have a chat!",
+    "job_description": "The hiring process for this role involves completing your Braintrust profile, applying directly to the role on Braintrust, and undergoing a one-time screening to ensure you meet our vetted talent specifications. After this, the hiring team will contact you directly if they believe you are a suitable match.\n\nOur process isn't for everyone, that's intentional. If you believe that you are a top candidate for this job, please join our network to give yourself the opportunity to work with top companies.\n\u2022 JOB TYPE: Freelance/ Contract Position (no agencies/C2C - see notes below)\n\u2022 LOCATION: Remote - Work from anywhere\n\u2022 SALARY: Our client is looking to pay $50-$100 /hr\n\u2022 ESTIMATED DURATION: 20h/week - Short term\n\u2022 BRAINTRUST JOB ID: 9789\n\nTHE OPPORTUNITY\n\nRequirements\n\nWe Are\n\nWe are a stealth mode start-up preparing for a soft launch on November 1, 2023. We\u2019re a people company that just happens to make really powerful AI. We are most proud of our radical approach to work and its place in our lives. Our current employees experience not just best in class benefits (that\u2019s common) but an unparalleled commitment to a personhood first way of working.\n\nOur AI is built to replicate what we\u2019ve built in the real world and make it accessible to individuals all over the world.\n\nOur AI suite uses advanced skill profiling, combined with behavioral and psychometric modeling to match fortune 100 companies with top talent globally. Fast. We can place specialized engineers, creatives and other technical talent in under a week and because of our incorporation of the \u201csoft\u201d variables into our platform we guarantee a fit that no other competitor can promise. We also do so while removing bias, we have removed the majority of avenues for unconscious bias in the hiring process and will continue to evolve our feature set to further eliminate variables that influence anything but merit and fit being the reason a person is selected for a role.\n\nYou Are:\n\nA person who cares deeply about people, technology and how the two meet. You will have experience writing about technology and its place in people's lives as part of content marketing campaigns for B2B businesses. You are passionate about your craft of writing and are a storyteller more than an SEO driven writer. You\u2019re able to grasp the technical concepts (which will be provided to you in briefs) and turn them into compelling blog posts, pieces of thought leadership, and potentially short form content depending on skill set.\n\nA native English speaker or have native level writing, reading and speaking capability.\n\nYou have at least 10 hours a week to commit to this project.\n\nThe Specifics:\n\nThe company has a backlog of content that has the strategy written, subjects and outlines but not enough bandwidth the get these pieces turned into meaningful, informative pieces of longform content. You will be briefed on the content calendar, and provided access to it for reference and research materials. You will be asked to write three articles per week of varying word count but approximately 1000 words.\n\nThe primary subject matter will range from AI, employee experience and AI, asynchronous working, proximity bias, the evolution of the workplace, ethics and AI, the ethics of AI in hiring, the role of technology in hiring, errors of using AI to evaluate human performance, AI to enhance hiring, the benefits of asynchronous teams.\n\nSecondary subject matter will be more basic in nature and will range from tips on managing remote teams, defining terms like proximity bias, pieces on the impact of burnout on remote works, the cost of retention ect.\n\nThe Caveat\n\nYou\u2019re a great technical writer, but not interested in writing about the business aspects of AI or the human impact of AI- still get in touch, we may be able to work together.\n\nYou\u2019re one heck of a (documented) storyteller but not great with tech - get in touch, we can most likely still work together.\n\nYou\u2019re reading this as a creative looking for a chance to join a start-up, also send us your portfolio.\n\nAnd to show you\u2019ve actually read this very long job posting put the words \u201cAI for the people\u201d in your subject line.\n\nWhat you\u2019ll be working on\n\nEverything you need to know is covered in the above section. But if you have specific questions about what you'll be working on feel free to drop us a line and let us know we should clarify the posting :)\n\nApply Now!\n\nNotes:\n\nOur employers all have varying legal and geographic requirements for their roles, they trust Braintrust to find them the talent that meet their unique specifications. For that reason, this role is not available to C2C candidates working with an agency. If you are a professional contractor who has created an LLC/corp around their consulting practice, this is well aligned with Braintrust and we\u2019d welcome your application.",
     "job_is_remote": true,
     "job_posted_at": null,
     "job_posted_at_timestamp": null,
@@ -4575,7 +4621,57 @@
     "job_longitude": null,
     "job_benefits": null,
     "job_benefits_strings": null,
-    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DSSlgzDaROW4zhh1tAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+    "job_google_link": "https://www.google.com/search?ibp=htl;jobs&q&htidocid=V3kppYUoxF2pU7iyAAAAAA%3D%3D&hl=en-US&shem=rimspwouoe&shndl=37&shmd=H4sIAAAAAAAA_xWNMQrCQBAAsc0TtNlaMCeCFtpFULBUrETC5VySk8vusbti_IYvNjZTTDFTfCfFZs_585ZoKLCAgyAmTwHhdsaeDe-jPHEDil5CB0xwZG4TTnedWdatc6qpbNW8xVAG7h0TNjy4Jzf6R62dF8zJG9ar9XIoM7XzWSU-kslLDSLBlcb9Ay5jBPUHZqZMdJUAAAA&shmds=v1_ATWGeeOIrI_X_BaMyTw9pB_DiJk3zZQh44L2UYDaD-M3Enpu2w&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq&htidocid=V3kppYUoxF2pU7iyAAAAAA%3D%3D",
+    "job_salary": null,
+    "job_salary_string": "50\u2013100 an hour",
+    "job_min_salary": 50,
+    "job_max_salary": 100,
+    "job_salary_period": "HOUR",
+    "job_highlights": {},
+    "job_onet_soc": null,
+    "job_onet_job_zone": null,
+    "employer_reviews": null,
+    "fit_score": 45,
+    "evaluation_reason": "While the role is remote, freelance, and aligns with your general copywriting skills and logistical needs, there's a significant mismatch in content niche, as the job explicitly requires B2B tech writing experience for an AI company, contrasting your stated focus on wellness and personal development brands."
+  },
+  {
+    "job_id": "GPMCJJWXvXRO4RUgAAAAAA==",
+    "job_title": "Remote Fundraising Copywriter with Flexible Hours",
+    "employer_name": "K2D Strategies",
+    "employer_logo": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://k2dstrategies.com&size=128",
+    "employer_website": "https://k2dstrategies.com",
+    "job_publisher": "Jooble",
+    "job_employment_type": "Full-time",
+    "job_employment_types": [
+      "FULLTIME"
+    ],
+    "job_apply_link": "https://jooble.org/jdp/-4918197407255258332",
+    "job_apply_is_direct": false,
+    "apply_options": [
+      {
+        "apply_link": "https://jooble.org/jdp/-4918197407255258332",
+        "is_direct": false,
+        "publisher": "Jooble"
+      }
+    ],
+    "job_description": "A growing fundraising agency is seeking a Copywriter to develop engaging copy for direct mail, email, and social media campaigns that support nonprofit organizations' missions. Candidates should have at least 2 years of relevant experience, strong writing and editing skills, and the motivation to work collaboratively. The company offers competitive compensation starting at $70,000/year, along with benefits such as employer-subsidized health insurance, flexible work hours, and opportunities for professional development.\n#J-18808-Ljbffr K2D Strategies",
+    "job_is_remote": true,
+    "job_posted_at": "2 days ago",
+    "job_posted_at_timestamp": 1779148800,
+    "job_posted_at_datetime_utc": "2026-05-19T00:00:00.000Z",
+    "job_location": "Anywhere",
+    "job_city": null,
+    "job_state": null,
+    "job_country": null,
+    "job_latitude": null,
+    "job_longitude": null,
+    "job_benefits": [
+      "health_insurance"
+    ],
+    "job_benefits_strings": [
+      "Health insurance"
+    ],
+    "job_google_link": "https://www.google.com/search?ibp=htl;jobs&q&htidocid=GPMCJJWXvXRO4RUgAAAAAA%3D%3D&hl=en-US&shem=rimspwouoe&shndl=37&shmd=H4sIAAAAAAAA_xXOsQrCMBCAYVz7CC7eLNpIwUWnotSim4JrSeuRRNJcyF1pfSMf07r8wzf92XeR1XfsSRCqIbySduyCgRPFz5icYILRiYXK4-Raj1DTkBi2cKUWGHXqLFCAC5HxuDxakcgHpZh9bli0uC7vqFcUsKVJvanlfxq2OmH0WrAp9rspj8GsV7fiDA9JMxqHDC5Amfw8IxQ28Cx_EJ5mjqsAAAA&shmds=v1_ATWGeePUK28kA9Q6qRRNgOO2HqrWzGvXBns8R52IQM3l7iZcbw&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq&htidocid=GPMCJJWXvXRO4RUgAAAAAA%3D%3D",
     "job_salary": null,
     "job_salary_string": null,
     "job_min_salary": null,
@@ -4585,8 +4681,8 @@
     "job_onet_soc": null,
     "job_onet_job_zone": null,
     "employer_reviews": null,
-    "fit_score": 42,
-    "evaluation_reason": "While your direct-response, funnel, and ad copywriting skills are an excellent match and the role is remote, it significantly mismatches your desired content niche, high-intellect publication standard, and preferred brand aesthetic."
+    "fit_score": 45,
+    "evaluation_reason": "While the role is remote and requires core copywriting skills for email and social media, it's a poor match for Natalie's niche focus on wellness and personal development brands and her strategic launch/funnel expertise. The compensation may also be low for her extensive experience in generating multi-million dollar revenue for high-level brands."
   },
   {
     "job_id": "1ej70xjn4N0oCru0AAAAAA==",
@@ -5116,7 +5212,7 @@
     ],
     "job_description": "To support a growing roster of clients, the full-time remote Mid-Level Copywriter will create bold, social-first content and culturally relevant concepts for various consumer and tech brands while collaborating with cross-functional teams.\n\nKey responsibilities\n\n\u2022 Concept and write social-first creative ideas across platforms like TikTok, Instagram, and Threads\n\n\u2022 Develop monthly content calendars and deliverables for multiple social and creative clients\n\n\u2022 Collaborate with strategists, designers, and editors to bring ideas to life and contribute to trend-driven content opportunities\n\nRequired qualifications\n\n\u2022 4-5 years of copywriting experience within an agency, creative studio, or social team\n\n\u2022 Strong portfolio showcasing social-first copywriting and concepting work\n\n\u2022 Deep understanding of internet culture, trends, and platform best practices\n\n\u2022 Experience concepting short-form video and creator/influencer-led content\n\n\u2022 Collaborative mindset with the ability to work in a fast-paced environment",
     "job_is_remote": true,
-    "job_posted_at": "2 days ago",
+    "job_posted_at": "3 days ago",
     "job_posted_at_timestamp": 1779062400,
     "job_posted_at_datetime_utc": "2026-05-18T00:00:00.000Z",
     "job_location": "Anywhere",
@@ -5137,8 +5233,8 @@
     "job_onet_soc": null,
     "job_onet_job_zone": null,
     "employer_reviews": null,
-    "fit_score": 38,
-    "evaluation_reason": "The role is remote and avoids generic marketing manager titles, aligning with two key constraints. However, there's a significant mismatch in core skills, content niche, and desired quality/aesthetic standards, as the job focuses heavily on social-first, trend-driven content for generic consumer/tech brands rather than your expertise in direct response, funnels, and wellness/personal development."
+    "fit_score": 35,
+    "evaluation_reason": "While the role aligns with core copywriting skills and is remote, it significantly misses Natalie's desired content niches, aesthetic alignment, and likely her British time zone constraint, while also offering less strategic responsibility than her experience suggests."
   },
   {
     "job_id": "AB2EA8hJuFzG1FMJAAAAAA==",
@@ -6067,58 +6163,6 @@
     "employer_reviews": null,
     "fit_score": 35,
     "evaluation_reason": "This Copywriter & Content Support Assistant role is significantly below Natalie's 13+ years of strategic and launch copywriting experience, with a pay scale that is inadequate for her expertise. While the role is remote and involves some relevant content creation, it lacks the strategic depth, high-intellect focus, and senior-level responsibilities Natalie seeks."
-  },
-  {
-    "job_id": "UOTnKQuu00mZFjN1AAAAAA==",
-    "job_title": "Copywriter, Associate",
-    "employer_name": "Sundayy",
-    "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCkwkW-b4b1XlJBsK5Hfpul1lU1YDNBYqWnwNo&s=0",
-    "employer_website": null,
-    "job_publisher": "BeBee",
-    "job_employment_type": "Full-time",
-    "job_employment_types": [
-      "FULLTIME"
-    ],
-    "job_apply_link": "https://bebee.com/us/jobs/copywriter-associate-sundayy--theirstack-678384591",
-    "job_apply_is_direct": false,
-    "apply_options": [
-      {
-        "apply_link": "https://bebee.com/us/jobs/copywriter-associate-sundayy--theirstack-678384591",
-        "is_direct": false,
-        "publisher": "BeBee"
-      }
-    ],
-    "job_description": "About The Company\nGolden Pet Brands is a leading innovator in the pet industry, dedicated to enhancing the lives of pets and their owners through high-quality products, educational content, and engaging marketing initiatives. With a commitment to excellence and a passion for pet wellness, the company has established itself as a trusted name in the industry.\n\nGolden Pet\n\nBrands values creativity, collaboration, and a customer-centric approach, striving to deliver solutions that foster healthier, happier pets and stronger bonds between pets and their families.\nAbout The Role We are seeking a talented and motivated Associate Copywriter to join our dynamic team remotely, with the possibility of working from our offices in El Segundo, CA, or North Hollywood, CA. In this role, you will be responsible for creating compelling, persuasive, and engaging copy across various marketing channels.\n\nYour work will directly contribute to revenue growth and brand awareness, supporting our mission to be a leader in the pet industry. The ideal candidate will possess strong writing skills, a keen understanding of consumer psychology, and the ability to manage multiple projects efficiently. This position offers an exciting opportunity to develop your craft in a fast-paced environment while making a tangible impact on the company's success.\n\nQualifications\n\n\u2022 Minimum of 1+ years of professional, high-output creative writing or communications experience\n\n\u2022 Sales or direct response copywriting experience preferred\n\n\u2022 Extensive research skills utilizing primary sources\n\n\u2022 Ability to produce over 1,000 words daily in a fast-paced environment\n\n\u2022 Willingness to accept and apply constructive feedback\n\n\u2022 Strong multitasking skills to handle multiple projects simultaneously\n\n\u2022 Eagerness to learn obsessively about consumer psychology, the pet industry, and high-performing copywriting techniques\n\n\u2022 Bachelor\u2019s Degree preferred, major in Journalism, English, Creative Writing, Screenwriting, Marketing, or Communication\n\nResponsibilities\n\n\u2022 Develop engaging, persuasive, and warm copy for various marketing channels, including email campaigns, websites, print materials, and social media\n\n\u2022 Support the email list with compelling content and sales emails aimed at driving revenue\n\n\u2022 Write and edit content for brand order pages, upsell pages, and video scripts\n\n\u2022 Execute monthly email and text marketing campaigns, focusing on revenue generation\n\n\u2022 Collaborate with colleagues to review, edit, and proofread all written materials to ensure quality and consistency\n\n\u2022 Conduct thorough research to inform content creation, utilizing primary sources and industry insights\n\n\u2022 Manage multiple projects efficiently, meeting deadlines and maintaining high standards\n\n\u2022 Participate in ongoing learning to refine copywriting skills and stay updated on industry trends\n\nBenefits\n\n\u2022 Comprehensive healthcare coverage, with 100% premiums paid for medical, dental, and vision plans for employees\n\n\u2022 Annual performance-based bonus\n\n\u2022 Matching up to 3.5% of 401(k) contributions to support your retirement savings\n\n\u2022 Six paid sick and mental health days, along with access to an Employee Assistance Program\n\n\u2022 Free weekly yoga and meditation classes, promoting holistic well-being\n\n\u2022 Participation in the Employee Stock Ownership Plan (ESOP), allowing you to share in company growth\n\n\u2022 Reimbursements for personal cell phone and internet expenses for eligible employees\n\n\u2022 Opportunities for professional development through mentorship, training, and performance-based pay increases\n\n\u2022 Charity sponsorships supporting community initiatives, with over $9 million donated to date\n\n\u2022 Potential quarterly KPI bonuses based on performance\n\nEqual Opportunity\nGolden Pet Brands is an equal opportunity employer. We consider all qualified applicants for employment without regard to race, color, religion, sex, national origin, age, disability, sexual orientation, gender identity, or any other protected status. We are committed to fostering an inclusive and diverse workplace where everyone can thrive. We will also consider qualified applicants with criminal histories in a manner consistent with applicable laws.",
-    "job_is_remote": true,
-    "job_posted_at": "12 days ago",
-    "job_posted_at_timestamp": 1778112000,
-    "job_posted_at_datetime_utc": "2026-05-07T00:00:00.000Z",
-    "job_location": "Anywhere",
-    "job_city": null,
-    "job_state": null,
-    "job_country": null,
-    "job_latitude": null,
-    "job_longitude": null,
-    "job_benefits": [
-      "health_insurance",
-      "dental_coverage"
-    ],
-    "job_benefits_strings": [
-      "Health insurance",
-      "Dental insurance"
-    ],
-    "job_google_link": "https://www.google.com/search?ibp=htl;jobs&q&htidocid=UOTnKQuu00mZFjN1AAAAAA%3D%3D&hl=en-US&shem=epsd1,rimspwouoe&shndl=37&shmd=H4sIAAAAAAAA_xXNsQrCMBCAYVz7BOJ0s9REBBedxEFwLc4lSY8kUu9CLmLzAL63cfnH7---q66_cqqfHAvmHi4i7KIpCDu4swVBk10AJrgx-xk351BKkpPWIrPyUkyJTjl-aSa0vOgnW_lnlGAyprlR4-G4X1Qiv10Pb5pMrRAJHtSOEwxNQPkByS8BmIgAAAA&shmds=v1_ATWGeePSt3MREEcg83H06PDosGQ_reYAJ3gciF83rz0QjJ1ufQ&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq&htidocid=UOTnKQuu00mZFjN1AAAAAA%3D%3D",
-    "job_salary": null,
-    "job_salary_string": null,
-    "job_min_salary": null,
-    "job_max_salary": null,
-    "job_salary_period": null,
-    "job_highlights": {},
-    "job_onet_soc": null,
-    "job_onet_job_zone": null,
-    "employer_reviews": null,
-    "fit_score": 35,
-    "evaluation_reason": "While the role aligns with many core copywriting skills, is remote, and avoids a generic 'Marketing Manager' title, it significantly mismatches the desired content niche (pet industry vs. wellness/personal development), aesthetic alignment, career level (Associate vs. 13+ years experience), and critical British time zone constraint."
   },
   {
     "job_id": "o0joQTXMr3Cxbak2AAAAAA==",
@@ -7141,52 +7185,6 @@
     "evaluation_reason": "This role poorly aligns due to a critical mismatch with the 'British Time Zone' constraint, requiring availability during late British hours. Additionally, the compensation and strategic level of the role are significantly below expectations for a Conversion Strategist and Launch Architect with 13+ years of experience."
   },
   {
-    "job_id": "vVhndWHItTD6CsR0AAAAAA==",
-    "job_title": "Editorial Copywriter",
-    "employer_name": "DoorDash",
-    "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYBGGWcfNdebgSKXTSlib-7zlZkWHmbv_yH-Sd&s=0",
-    "employer_website": "https://about.doordash.com",
-    "job_publisher": "Career Vault",
-    "job_employment_type": "Full-time",
-    "job_employment_types": [
-      "FULLTIME"
-    ],
-    "job_apply_link": "https://www.careervault.io/es/remote/doordash-4633/writing/editorial-copywriter-san-francisco-los-angeles-new-york-city-remote-1130441",
-    "job_apply_is_direct": false,
-    "apply_options": [
-      {
-        "apply_link": "https://www.careervault.io/es/remote/doordash-4633/writing/editorial-copywriter-san-francisco-los-angeles-new-york-city-remote-1130441",
-        "is_direct": false,
-        "publisher": "Career Vault"
-      }
-    ],
-    "job_description": "About the Team\n\nDoorDash's mission is to grow and empower local economies. By building intelligent, last-mile delivery technology for local cities, DoorDash connects people with the local businesses they care about - helping grow businesses and the communities that support those businesses. To further this mission, DoorDash is building a best in class Creative Studio. We will be populated by diverse, eclectic talent. We take risks, challenge each other, and inspire new ways of thinking. We're here to create work that we, our partners, and the entire DoorDash community can be immensely proud of. We're here to make the best work of our careers\n\nAbout the Role\n\nWe're looking for an experienced and versatile Editorial Copywriter to join the creative team in supporting marketing efforts across all DoorDash audiences: Consumer, Merchant, and Dasher. You'll help push the DoorDash brand forward with outstanding copywriting for ad campaigns, social media, in-app content, our website, video, email and more. Reporting to the Editorial Lead, you'll work closely with art directors, designers, and marketing partners to tell the most impactful brand and product stories. You're organized and detail-obsessed, and you can prove that remarkable communications don't require a lot of time. You'll be an ambassador of our brand voice and join a team that's defining editorial excellence for DoorDash.\n\nYou're excited about this opportunity because you will\u2026\n\n\u2022 Write compelling copy for marketing materials including ad campaigns, social media, in-app content, our website, video, email and more\n\u2022 Work closely and collaboratively with art directors and partners to deliver on strategic projects\n\u2022 Contribute to creative ideation and campaign development for brand and product, and be an ambassador for the DoorDash voice\n\u2022 Translate technical business challenges into relatable human narratives\n\u2022 Masterfully tailor your communications to different audiences, channels, and situations\n\u2022 Write, write, write! You will be all about execution within a fast-paced and agile team.\n\u2022 Represent the writer's perspective to team members, both on the page and in presentations\n\nWe're excited about you because\u2026\n\n\u2022 5+ years of creative, editorial, and/or product writing experience at an agency or in-house\n\u2022 A compelling portfolio that proves you can write snappy headlines, clear informational copy, and phrases that delight\n\u2022 The ability to multitask, ask strategic questions, and prioritize with ease\n\u2022 Experience managing your portion of the workload across multiple projects with tight timelines\n\u2022 A firm grasp on content strategy and how to structure information to achieve our shared goals\n\u2022 An eye for design and an understanding of how art and copy work together\n\u2022 A strong work ethic, an inquisitive mind, and an eagerness to be proactive\n\nWhy You'll Love Working at DoorDash\n\n\u2022 We are leaders \u2013 Leadership is not limited to our management team. It's something everyone at DoorDash embraces and embodies.\n\u2022 We are operators \u2013 We believe the only way to predict the future is to build it. Creating solutions to lead our company and our industry is what we do on every project, every day.\n\u2022 We are learners \u2013 Everyone here is continually learning on the job, no matter if we've been in a role for one year or one minute. We are committed to learning and implementing what is best for our customers, merchants, and dashers.\n\u2022 We are one team \u2013 The magic of DoorDash is our people, together making our inspiring goals attainable and driving us to greater heights.\n\u2022 We offer great compensation packages and comprehensive health benefits.\n\u2022 This job is remote friendly.\n\nAbout DoorDash\n\nAt DoorDash, our mission to empower local economies shapes how our team members move quickly and always learn and reiterate to support merchants, Dashers and the communities we serve. We are a technology and logistics company that started with door-to-door delivery, and we are looking for team members who can help us go from a company that is known for delivering food to a company that people turn to for any and all goods. Read more on the DoorDash website, the DoorDash blog, the DoorDash Engineering blog, and the DoorDash Careers page.\n\nDoorDash is growing rapidly and changing constantly, which gives our team members the opportunity to share their unique perspectives, solve new challenges, and own their careers. Our leaders seek the truth and welcome big, hairy, audacious questions. We are grounded in our company values, and we make intentional decisions that are both logical and display empathy for our range of users\u2014from Dashers to Merchants to Customers.\n\nWe're committed to supporting employees' happiness, healthiness, and overall well-being by providing comprehensive benefits and perks including premium healthcare, wellness expense reimbursement, paid parental leave and more.\n\nOur Commitment to Diversity and Inclusion\n\nWe're committed to growing and empowering a more inclusive community within our company, industry, and cities. That's why we hire and cultivate diverse teams of people from all backgrounds, experiences, and perspectives. We believe that true innovation happens when everyone has room at the table and the tools, resources, and opportunity to excel.\n\nStatement of Non-Discrimination: In keeping with our beliefs and goals, no employee or applicant will face discrimination or harassment based on: race, color, ancestry, national origin, religion, age, gender, marital/domestic partner status, sexual orientation, gender identity or expression, disability status, or veteran status. Above and beyond discrimination and harassment based on \"protected categories,\" we also aim to prevent other subtler forms of inappropriate behavior (i.e., stereotyping) from ever gaining a foothold in our office. Whether blatant or hidden, barriers to success have no place at DoorDash. We value a diverse workforce \u2013 people who identify as women, non-binary or gender non-conforming, LGBTQIA+, American Indian or Native Alaskan, Black or African American, Hispanic or Latinx, Native Hawaiian or Other Pacific Islander, differently-abled, caretakers and parents, and veterans are encouraged to apply. Thank you to the Level Playing Field Institute for this statement of non-discrimination.\n\nIf you need any accommodations, please inform your recruiting contact upon initial connection.",
-    "job_is_remote": true,
-    "job_posted_at": null,
-    "job_posted_at_timestamp": null,
-    "job_posted_at_datetime_utc": null,
-    "job_location": "Anywhere",
-    "job_city": null,
-    "job_state": null,
-    "job_country": null,
-    "job_latitude": null,
-    "job_longitude": null,
-    "job_benefits": null,
-    "job_benefits_strings": null,
-    "job_google_link": "https://www.google.com/search?ibp=htl;jobs&q&htidocid=vVhndWHItTD6CsR0AAAAAA%3D%3D&hl=en-US&shem=rimspwouoe&shndl=37&shmd=H4sIAAAAAAAA_xXEMQoCMRAF0Fb2CFZTKyYi2GjpLoKXWJI4JJG4P8wMuN5efMUbbNhPz2qQGhrd0L8fqcZCB3ogknKQVAgL3YHceHstZl0v3qs2l9WC1eQS3h4LR6z-haj_Zi1BuLdgPJ_Ox9X1Je82IyBj0PID3iF_7nYAAAA&shmds=v1_ATWGeeMjOJE39CIAH1DiI4gXGjTi_4be9jPayP47MOej6Vbq2A&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq&htidocid=vVhndWHItTD6CsR0AAAAAA%3D%3D",
-    "job_salary": null,
-    "job_salary_string": null,
-    "job_min_salary": null,
-    "job_max_salary": null,
-    "job_salary_period": null,
-    "job_highlights": {},
-    "job_onet_soc": null,
-    "job_onet_job_zone": null,
-    "employer_reviews": null,
-    "fit_score": 25,
-    "evaluation_reason": "While your core copywriting skills and experience align with the job responsibilities, the role's content niche (food delivery), aesthetic alignment, quality standard, and geographic constraints (remote, British time zone) are a poor match for your specific needs."
-  },
-  {
     "job_id": "mhuoY7E7I0PEzUB8AAAAAA==",
     "job_title": "Brand Editorial Copywriter",
     "employer_name": "World Insurance Associates LLC",
@@ -7918,52 +7916,6 @@
     "evaluation_reason": "While your core copywriting and funnel strategy skills align well with the job's focus on high-converting email and landing page copy for eCommerce, the explicit 'US based' requirement directly conflicts with your remote British Time Zone constraint and location in Portugal. Additionally, the role's emphasis on direct-response conversion for eCommerce clients does not align with your aspiration to write for high-intellect/lifestyle publications."
   },
   {
-    "job_id": "V3kppYUoxF2pU7iyAAAAAA==",
-    "job_title": "Copywriter - Freelance [Remote]",
-    "employer_name": "Braintrust",
-    "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTE08ThhIOxYF4ya9QU8nK6BJoQyt2_hgfV2HoF&s=0",
-    "employer_website": "https://www.usebraintrust.com",
-    "job_publisher": "Karkidi",
-    "job_employment_type": "Full-time",
-    "job_employment_types": [
-      "FULLTIME"
-    ],
-    "job_apply_link": "https://www.karkidi.com/job-details/76753-copywriter-freelance-remote-job",
-    "job_apply_is_direct": false,
-    "apply_options": [
-      {
-        "apply_link": "https://www.karkidi.com/job-details/76753-copywriter-freelance-remote-job",
-        "is_direct": false,
-        "publisher": "Karkidi"
-      }
-    ],
-    "job_description": "The hiring process for this role involves completing your Braintrust profile, applying directly to the role on Braintrust, and undergoing a one-time screening to ensure you meet our vetted talent specifications. After this, the hiring team will contact you directly if they believe you are a suitable match.\n\nOur process isn't for everyone, that's intentional. If you believe that you are a top candidate for this job, please join our network to give yourself the opportunity to work with top companies.\n\u2022 JOB TYPE: Freelance/ Contract Position (no agencies/C2C - see notes below)\n\u2022 LOCATION: Remote - Work from anywhere\n\u2022 SALARY: Our client is looking to pay $50-$100 /hr\n\u2022 ESTIMATED DURATION: 20h/week - Short term\n\u2022 BRAINTRUST JOB ID: 9789\n\nTHE OPPORTUNITY\n\nRequirements\n\nWe Are\n\nWe are a stealth mode start-up preparing for a soft launch on November 1, 2023. We\u2019re a people company that just happens to make really powerful AI. We are most proud of our radical approach to work and its place in our lives. Our current employees experience not just best in class benefits (that\u2019s common) but an unparalleled commitment to a personhood first way of working.\n\nOur AI is built to replicate what we\u2019ve built in the real world and make it accessible to individuals all over the world.\n\nOur AI suite uses advanced skill profiling, combined with behavioral and psychometric modeling to match fortune 100 companies with top talent globally. Fast. We can place specialized engineers, creatives and other technical talent in under a week and because of our incorporation of the \u201csoft\u201d variables into our platform we guarantee a fit that no other competitor can promise. We also do so while removing bias, we have removed the majority of avenues for unconscious bias in the hiring process and will continue to evolve our feature set to further eliminate variables that influence anything but merit and fit being the reason a person is selected for a role.\n\nYou Are:\n\nA person who cares deeply about people, technology and how the two meet. You will have experience writing about technology and its place in people's lives as part of content marketing campaigns for B2B businesses. You are passionate about your craft of writing and are a storyteller more than an SEO driven writer. You\u2019re able to grasp the technical concepts (which will be provided to you in briefs) and turn them into compelling blog posts, pieces of thought leadership, and potentially short form content depending on skill set.\n\nA native English speaker or have native level writing, reading and speaking capability.\n\nYou have at least 10 hours a week to commit to this project.\n\nThe Specifics:\n\nThe company has a backlog of content that has the strategy written, subjects and outlines but not enough bandwidth the get these pieces turned into meaningful, informative pieces of longform content. You will be briefed on the content calendar, and provided access to it for reference and research materials. You will be asked to write three articles per week of varying word count but approximately 1000 words.\n\nThe primary subject matter will range from AI, employee experience and AI, asynchronous working, proximity bias, the evolution of the workplace, ethics and AI, the ethics of AI in hiring, the role of technology in hiring, errors of using AI to evaluate human performance, AI to enhance hiring, the benefits of asynchronous teams.\n\nSecondary subject matter will be more basic in nature and will range from tips on managing remote teams, defining terms like proximity bias, pieces on the impact of burnout on remote works, the cost of retention ect.\n\nThe Caveat\n\nYou\u2019re a great technical writer, but not interested in writing about the business aspects of AI or the human impact of AI- still get in touch, we may be able to work together.\n\nYou\u2019re one heck of a (documented) storyteller but not great with tech - get in touch, we can most likely still work together.\n\nYou\u2019re reading this as a creative looking for a chance to join a start-up, also send us your portfolio.\n\nAnd to show you\u2019ve actually read this very long job posting put the words \u201cAI for the people\u201d in your subject line.\n\nWhat you\u2019ll be working on\n\nEverything you need to know is covered in the above section. But if you have specific questions about what you'll be working on feel free to drop us a line and let us know we should clarify the posting :)\n\nApply Now!\n\nNotes:\n\nOur employers all have varying legal and geographic requirements for their roles, they trust Braintrust to find them the talent that meet their unique specifications. For that reason, this role is not available to C2C candidates working with an agency. If you are a professional contractor who has created an LLC/corp around their consulting practice, this is well aligned with Braintrust and we\u2019d welcome your application.",
-    "job_is_remote": true,
-    "job_posted_at": null,
-    "job_posted_at_timestamp": null,
-    "job_posted_at_datetime_utc": null,
-    "job_location": "Anywhere",
-    "job_city": null,
-    "job_state": null,
-    "job_country": null,
-    "job_latitude": null,
-    "job_longitude": null,
-    "job_benefits": null,
-    "job_benefits_strings": null,
-    "job_google_link": "https://www.google.com/search?ibp=htl;jobs&q&htidocid=V3kppYUoxF2pU7iyAAAAAA%3D%3D&hl=en-US&shem=rimspwouoe&shndl=37&shmd=H4sIAAAAAAAA_xWNMQrCQBAAsc0TtNlaMCeCFtpFULBUrETC5VySk8vusbti_IYvNjZTTDFTfCfFZs_585ZoKLCAgyAmTwHhdsaeDe-jPHEDil5CB0xwZG4TTnedWdatc6qpbNW8xVAG7h0TNjy4Jzf6R62dF8zJG9ar9XIoM7XzWSU-kslLDSLBlcb9Ay5jBPUHZqZMdJUAAAA&shmds=v1_ATWGeeOIrI_X_BaMyTw9pB_DiJk3zZQh44L2UYDaD-M3Enpu2w&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq&htidocid=V3kppYUoxF2pU7iyAAAAAA%3D%3D",
-    "job_salary": null,
-    "job_salary_string": "50\u2013100 an hour",
-    "job_min_salary": 50,
-    "job_max_salary": 100,
-    "job_salary_period": "HOUR",
-    "job_highlights": {},
-    "job_onet_soc": null,
-    "job_onet_job_zone": null,
-    "employer_reviews": null,
-    "fit_score": 25,
-    "evaluation_reason": "The job's B2B tech/AI niche and focus on thought leadership are a significant mismatch for your extensive experience and explicit preference for direct response copywriting in wellness and personal development niches. While it aligns with remote work and the freelance nature, the core content and aesthetic are misaligned."
-  },
-  {
     "job_id": "SyXUElerhy_KRJScAAAAAA==",
     "job_title": "Remote Freelance Copywriter: Storyteller for Catalogs",
     "employer_name": "Publicis Production",
@@ -8010,6 +7962,98 @@
     "evaluation_reason": "This role is a poor fit primarily due to the significant mismatch in content niche (Sam's Club vs. wellness/personal development) and the explicit constraint for a British time zone, as the job is 'remote within the US'. Additionally, the catalog copy work does not align with Natalie's strategic, conversion-focused expertise or her aesthetic/quality standards."
   },
   {
+    "job_id": "dIes3cfhLuOkkrkdAAAAAA==",
+    "job_title": "Copywriter, Jr.",
+    "employer_name": "Sundayy",
+    "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCkwkW-b4b1XlJBsK5Hfpul1lU1YDNBYqWnwNo&s=0",
+    "employer_website": "https://www.sundayy.com",
+    "job_publisher": "BeBee",
+    "job_employment_type": "Full-time",
+    "job_employment_types": [
+      "FULLTIME"
+    ],
+    "job_apply_link": "https://bebee.com/us/jobs/copywriter-jr-sundayy--theirstack-687524832",
+    "job_apply_is_direct": false,
+    "apply_options": [
+      {
+        "apply_link": "https://bebee.com/us/jobs/copywriter-jr-sundayy--theirstack-687524832",
+        "is_direct": false,
+        "publisher": "BeBee"
+      }
+    ],
+    "job_description": "About The Company ICF Next is a leading global advisory and technology services provider dedicated to solving complex challenges across various sectors including energy, public health, climate, and more. Our organization combines strategic thinking, creativity, data analytics, and cutting-edge technology to develop innovative solutions that help organizations engage their audiences effectively and drive meaningful action.\n\nWe are committed to delivering integrated campaigns and experiences that are not only compelling but also consistent across multiple channels. Our work emphasizes clarity, utility, and performance, ensuring that our clients\u2019 messages resonate and produce measurable results. At ICF Next, we foster a collaborative environment that values diversity, inclusion, and continuous learning, empowering our employees to share their expertise and grow professionally.\n\nAbout The Role\nThis role is contingent upon contract award and is not an immediate opening. We are actively conducting interviews and may extend offers in anticipation of the contract finalization, with start dates dependent on the finalization process.\n\nThe Junior\n\nCopywriter will play a vital role in developing compelling ideas and translating them into impactful copy across various formats and channels. This position requires a creative thinker who understands the importance of strategic storytelling and can collaborate closely with art directors and other team members from the inception of ideas through execution. The ideal candidate will have a keen eye for detail, a passion for craft, and the ability to craft clear, engaging, and effective messages that align with client objectives. The role offers an exciting opportunity to contribute to integrated campaigns that make a difference in public health, energy, climate, and other critical sectors, working within a dynamic and supportive team environment.\nQualifications\n\n\u2022 3+ years of experience in copywriting or content creation\n\n\u2022 Strong ability to develop ideas and concepts beyond just writing copy\n\n\u2022 Proficiency in creating content across multiple formats including headlines, scripts, and systems\n\n\u2022 Experience partnering with art directors and designers to shape creative ideas from inception\n\n\u2022 Understanding of how campaigns operate across various channels and moments\n\n\u2022 Exceptional language instincts, storytelling skills, and structural awareness\n\n\u2022 Curiosity about people, culture, and current trends\n\n\u2022 High standards for craft, attention to detail, and a commitment to quality\n\n\u2022 Ability to take feedback constructively and push work further\n\n\u2022 Strong presentation skills and the ability to articulate ideas clearly\n\nResponsibilities\n\n\u2022 Develop innovative ideas and concepts that serve as the foundation for integrated campaigns\n\n\u2022 Translate insights into compelling, scalable content across multiple channels and formats\n\n\u2022 Write and edit copy for a variety of deliverables including headlines, scripts, digital content, and systems\n\n\u2022 Collaborate closely with art directors, strategists, and other team members to shape and refine creative concepts\n\n\u2022 Build and maintain a consistent voice and tone that aligns with client brand guidelines and campaign objectives\n\n\u2022 Present ideas and work-in-progress to team members and clients, incorporating feedback effectively\n\n\u2022 Ensure the quality, clarity, and effectiveness of all written content\n\n\u2022 Stay informed about cultural trends and audience preferences to inform creative development\n\n\u2022 Contribute to a collaborative team environment that encourages innovation and continuous improvement\n\nBenefits\n\n\u2022 Flexible work arrangements, including remote and hybrid options\n\n\u2022 Competitive healthcare and retirement plans\n\n\u2022 Ongoing professional development and training opportunities\n\n\u2022 Collaborative and inclusive work environment\n\n\u2022 Opportunities to contribute to impactful social and community initiatives\n\n\u2022 Work with a diverse team of professionals committed to innovation and excellence\n\nEqual Opportunity\nICF is an equal-opportunity employer. We celebrate diversity and are committed to creating an inclusive environment for all employees. We consider all qualified applicants regardless of race, color, religion, sex, sexual orientation, gender identity, national origin, age, disability, veteran status, or any other protected characteristic.\nWe also provide reasonable accommodations to applicants with disabilities, veterans, and individuals with sincerely held religious beliefs throughout the application and employment process.",
+    "job_is_remote": true,
+    "job_posted_at": "2 days ago",
+    "job_posted_at_timestamp": 1779148800,
+    "job_posted_at_datetime_utc": "2026-05-19T00:00:00.000Z",
+    "job_location": "Anywhere",
+    "job_city": null,
+    "job_state": null,
+    "job_country": null,
+    "job_latitude": null,
+    "job_longitude": null,
+    "job_benefits": null,
+    "job_benefits_strings": null,
+    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DdIes3cfhLuOkkrkdAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+    "job_salary": null,
+    "job_salary_string": null,
+    "job_min_salary": null,
+    "job_max_salary": null,
+    "job_salary_period": null,
+    "job_highlights": {},
+    "job_onet_soc": null,
+    "job_onet_job_zone": null,
+    "employer_reviews": null,
+    "fit_score": 25,
+    "evaluation_reason": "The 'Junior Copywriter' role is a significant mismatch for 13+ years of experience. Additionally, the job description lacks confirmation of crucial remote and British time zone requirements, and the content niche and aesthetic largely diverge from your stated preferences."
+  },
+  {
+    "job_id": "BTenfUcZJozgodE0AAAAAA==",
+    "job_title": "Copywriter, Part-time Contractor",
+    "employer_name": "Now Optics",
+    "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRC8y1NqPN_9dkckP1j7yELGDKRHW4b8JsZXgad&s=0",
+    "employer_website": "https://www.nowoptics.com",
+    "job_publisher": "Remote Rocketship",
+    "job_employment_type": "Contractor",
+    "job_employment_types": [
+      "CONTRACTOR"
+    ],
+    "job_apply_link": "https://www.remoterocketship.com/us/company/nowoptics/jobs/copywriter-part-time-contractor-united-states-remote/",
+    "job_apply_is_direct": false,
+    "apply_options": [
+      {
+        "apply_link": "https://www.remoterocketship.com/us/company/nowoptics/jobs/copywriter-part-time-contractor-united-states-remote/",
+        "is_direct": false,
+        "publisher": "Remote Rocketship"
+      }
+    ],
+    "job_description": "Job Description:\n\u2022 Write clear and engaging copy for digital marketing channels, including: Social media, email campaigns, and web content\n\u2022 Google Ads, PMax, YouTube Ads, and other paid media platforms\n\u2022 SEO, AEO, and GEO-targeted content to improve visibility and relevance\n\u2022 Edit and proofread marketing materials to ensure accuracy, clarity, and adherence to brand voice and tone.\n\u2022 Collaborate with the Senior Copywriter and cross-functional teams to deliver cohesive, impactful campaigns.\n\u2022 Research to develop subject matter expertise or ability to interview the expert to develop needed content\n\u2022 Stay current with digital marketing trends, best practices, and emerging tools to enhance copy performance.\n\u2022 Develop a deep understanding of customer needs and create content that connects with their desires and lifestyles.\n\u2022 Contribute to brainstorming sessions and creative ideation for campaigns and projects.\n\u2022 Manage multiple projects simultaneously, meeting deadlines in a fast-paced environment.\n\u2022 Recommend and test copy to continuously refine messaging for optimal results.\n\nRequirements:\n\u2022 Bachelor's degree in Communications, Journalism, English, Marketing, or a related field.\n\u2022 5+ years of experience in digital copywriting, preferably within retail, healthcare, or a similar industry.\n\u2022 Portfolio showcasing a range of digital copy, including SEO-optimized content, paid media, and social media campaigns.\n\u2022 Experience working in the optical industry is a plus.\n\u2022 Strong knowledge of digital copywriting best practices, including SEO, AEO, and GEO targeting.\n\u2022 Exceptional proofreading and editing skills with a keen eye for detail.\n\u2022 Experience writing for Google Ads, YouTube Ads, and other paid media platforms.\n\u2022 Ability to adapt to established brand voice and tone across various campaigns.\n\u2022 Familiarity with content management systems (CMS) and project management tools like Asana is a plus.\n\nBenefits:\n\u2022 Flexible work arrangements",
+    "job_is_remote": true,
+    "job_posted_at": "21 days ago",
+    "job_posted_at_timestamp": 1777507200,
+    "job_posted_at_datetime_utc": "2026-04-30T00:00:00.000Z",
+    "job_location": "Anywhere",
+    "job_city": null,
+    "job_state": null,
+    "job_country": null,
+    "job_latitude": null,
+    "job_longitude": null,
+    "job_benefits": null,
+    "job_benefits_strings": null,
+    "job_google_link": "https://www.google.com/search?ibp=htl;jobs&q&htidocid=BTenfUcZJozgodE0AAAAAA%3D%3D&hl=en-US&shem=rimspwouoe&shndl=37&shmd=H4sIAAAAAAAA_xXLsQrCMBAAUFzzCU43i01EEEHHDgUH9Q9KEo4k0ubC3UHr6pery9ue-WzMuaf2Xrgo8h6enrXTMiP0VJV9VGLo4EYBBD3HDFRhIEoTbq9ZtcnFOZHJJlGvJdpIs6OKgVb3oiB_RsmesU1ecTyeDqttNe3MnRZ4tF-RL-Ukrg6FAAAA&shmds=v1_ATWGeeNst7-rck44Psem5vKz2zYFaiVOovGbd3KiNGeJd5ENMw&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq&htidocid=BTenfUcZJozgodE0AAAAAA%3D%3D",
+    "job_salary": null,
+    "job_salary_string": null,
+    "job_min_salary": null,
+    "job_max_salary": null,
+    "job_salary_period": null,
+    "job_highlights": {},
+    "job_onet_soc": null,
+    "job_onet_job_zone": null,
+    "employer_reviews": null,
+    "fit_score": 25,
+    "evaluation_reason": "The role aligns with your core digital copywriting skills and remote work preference, but it presents a significant mismatch with your desired content niches (optical retail vs. wellness/personal development) and aesthetic/quality standards."
+  },
+  {
     "job_id": "oLJEiZbUVQHpCY4oAAAAAA==",
     "job_title": "Remote Copywriter \u2014 Fast-Paced, Pay-Per-Deliverable",
     "employer_name": "500 Designs",
@@ -8052,6 +8096,52 @@
     "employer_reviews": null,
     "fit_score": 22,
     "evaluation_reason": "While the remote nature and core copywriting skills technically align with your CV, this 'early-career' and 'pay-per-deliverable' role is a significant mismatch for your 13+ years of strategic experience, 6-8 figure impact, and aspiration for high-level content."
+  },
+  {
+    "job_id": "vVhndWHItTD6CsR0AAAAAA==",
+    "job_title": "Editorial Copywriter",
+    "employer_name": "DoorDash",
+    "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYBGGWcfNdebgSKXTSlib-7zlZkWHmbv_yH-Sd&s=0",
+    "employer_website": "https://about.doordash.com",
+    "job_publisher": "Career Vault",
+    "job_employment_type": "Full-time",
+    "job_employment_types": [
+      "FULLTIME"
+    ],
+    "job_apply_link": "https://www.careervault.io/es/remote/doordash-4633/writing/editorial-copywriter-san-francisco-los-angeles-new-york-city-remote-1130441",
+    "job_apply_is_direct": false,
+    "apply_options": [
+      {
+        "apply_link": "https://www.careervault.io/es/remote/doordash-4633/writing/editorial-copywriter-san-francisco-los-angeles-new-york-city-remote-1130441",
+        "is_direct": false,
+        "publisher": "Career Vault"
+      }
+    ],
+    "job_description": "About the Team\n\nDoorDash's mission is to grow and empower local economies. By building intelligent, last-mile delivery technology for local cities, DoorDash connects people with the local businesses they care about - helping grow businesses and the communities that support those businesses. To further this mission, DoorDash is building a best in class Creative Studio. We will be populated by diverse, eclectic talent. We take risks, challenge each other, and inspire new ways of thinking. We're here to create work that we, our partners, and the entire DoorDash community can be immensely proud of. We're here to make the best work of our careers\n\nAbout the Role\n\nWe're looking for an experienced and versatile Editorial Copywriter to join the creative team in supporting marketing efforts across all DoorDash audiences: Consumer, Merchant, and Dasher. You'll help push the DoorDash brand forward with outstanding copywriting for ad campaigns, social media, in-app content, our website, video, email and more. Reporting to the Editorial Lead, you'll work closely with art directors, designers, and marketing partners to tell the most impactful brand and product stories. You're organized and detail-obsessed, and you can prove that remarkable communications don't require a lot of time. You'll be an ambassador of our brand voice and join a team that's defining editorial excellence for DoorDash.\n\nYou're excited about this opportunity because you will\u2026\n\n\u2022 Write compelling copy for marketing materials including ad campaigns, social media, in-app content, our website, video, email and more\n\u2022 Work closely and collaboratively with art directors and partners to deliver on strategic projects\n\u2022 Contribute to creative ideation and campaign development for brand and product, and be an ambassador for the DoorDash voice\n\u2022 Translate technical business challenges into relatable human narratives\n\u2022 Masterfully tailor your communications to different audiences, channels, and situations\n\u2022 Write, write, write! You will be all about execution within a fast-paced and agile team.\n\u2022 Represent the writer's perspective to team members, both on the page and in presentations\n\nWe're excited about you because\u2026\n\n\u2022 5+ years of creative, editorial, and/or product writing experience at an agency or in-house\n\u2022 A compelling portfolio that proves you can write snappy headlines, clear informational copy, and phrases that delight\n\u2022 The ability to multitask, ask strategic questions, and prioritize with ease\n\u2022 Experience managing your portion of the workload across multiple projects with tight timelines\n\u2022 A firm grasp on content strategy and how to structure information to achieve our shared goals\n\u2022 An eye for design and an understanding of how art and copy work together\n\u2022 A strong work ethic, an inquisitive mind, and an eagerness to be proactive\n\nWhy You'll Love Working at DoorDash\n\n\u2022 We are leaders \u2013 Leadership is not limited to our management team. It's something everyone at DoorDash embraces and embodies.\n\u2022 We are operators \u2013 We believe the only way to predict the future is to build it. Creating solutions to lead our company and our industry is what we do on every project, every day.\n\u2022 We are learners \u2013 Everyone here is continually learning on the job, no matter if we've been in a role for one year or one minute. We are committed to learning and implementing what is best for our customers, merchants, and dashers.\n\u2022 We are one team \u2013 The magic of DoorDash is our people, together making our inspiring goals attainable and driving us to greater heights.\n\u2022 We offer great compensation packages and comprehensive health benefits.\n\u2022 This job is remote friendly.\n\nAbout DoorDash\n\nAt DoorDash, our mission to empower local economies shapes how our team members move quickly and always learn and reiterate to support merchants, Dashers and the communities we serve. We are a technology and logistics company that started with door-to-door delivery, and we are looking for team members who can help us go from a company that is known for delivering food to a company that people turn to for any and all goods. Read more on the DoorDash website, the DoorDash blog, the DoorDash Engineering blog, and the DoorDash Careers page.\n\nDoorDash is growing rapidly and changing constantly, which gives our team members the opportunity to share their unique perspectives, solve new challenges, and own their careers. Our leaders seek the truth and welcome big, hairy, audacious questions. We are grounded in our company values, and we make intentional decisions that are both logical and display empathy for our range of users\u2014from Dashers to Merchants to Customers.\n\nWe're committed to supporting employees' happiness, healthiness, and overall well-being by providing comprehensive benefits and perks including premium healthcare, wellness expense reimbursement, paid parental leave and more.\n\nOur Commitment to Diversity and Inclusion\n\nWe're committed to growing and empowering a more inclusive community within our company, industry, and cities. That's why we hire and cultivate diverse teams of people from all backgrounds, experiences, and perspectives. We believe that true innovation happens when everyone has room at the table and the tools, resources, and opportunity to excel.\n\nStatement of Non-Discrimination: In keeping with our beliefs and goals, no employee or applicant will face discrimination or harassment based on: race, color, ancestry, national origin, religion, age, gender, marital/domestic partner status, sexual orientation, gender identity or expression, disability status, or veteran status. Above and beyond discrimination and harassment based on \"protected categories,\" we also aim to prevent other subtler forms of inappropriate behavior (i.e., stereotyping) from ever gaining a foothold in our office. Whether blatant or hidden, barriers to success have no place at DoorDash. We value a diverse workforce \u2013 people who identify as women, non-binary or gender non-conforming, LGBTQIA+, American Indian or Native Alaskan, Black or African American, Hispanic or Latinx, Native Hawaiian or Other Pacific Islander, differently-abled, caretakers and parents, and veterans are encouraged to apply. Thank you to the Level Playing Field Institute for this statement of non-discrimination.\n\nIf you need any accommodations, please inform your recruiting contact upon initial connection.",
+    "job_is_remote": true,
+    "job_posted_at": null,
+    "job_posted_at_timestamp": null,
+    "job_posted_at_datetime_utc": null,
+    "job_location": "Anywhere",
+    "job_city": null,
+    "job_state": null,
+    "job_country": null,
+    "job_latitude": null,
+    "job_longitude": null,
+    "job_benefits": null,
+    "job_benefits_strings": null,
+    "job_google_link": "https://www.google.com/search?ibp=htl;jobs&q&htidocid=vVhndWHItTD6CsR0AAAAAA%3D%3D&hl=en-US&shem=rimspwouoe&shndl=37&shmd=H4sIAAAAAAAA_xXEMQoCMRAF0Fb2CFZTKyYi2GjpLoKXWJI4JJG4P8wMuN5efMUbbNhPz2qQGhrd0L8fqcZCB3ogknKQVAgL3YHceHstZl0v3qs2l9WC1eQS3h4LR6z-haj_Zi1BuLdgPJ_Ox9X1Je82IyBj0PID3iF_7nYAAAA&shmds=v1_ATWGeeMjOJE39CIAH1DiI4gXGjTi_4be9jPayP47MOej6Vbq2A&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq&htidocid=vVhndWHItTD6CsR0AAAAAA%3D%3D",
+    "job_salary": null,
+    "job_salary_string": null,
+    "job_min_salary": null,
+    "job_max_salary": null,
+    "job_salary_period": null,
+    "job_highlights": {},
+    "job_onet_soc": null,
+    "job_onet_job_zone": null,
+    "employer_reviews": null,
+    "fit_score": 20,
+    "evaluation_reason": "While Natalie possesses the core copywriting skills required, the role's content niche (DoorDash vs. wellness/personal development), aesthetic alignment, and critical remote/British time zone constraints are all significantly mismatched."
   },
   {
     "job_id": "sLjALxCGCdWxin4OAAAAAA==",
@@ -8491,6 +8581,52 @@
     "evaluation_reason": "While Natalie possesses strong core copywriting and content skills aligning with the role, it fails on critical constraints such as being a US-only remote position and not aligning with a British time zone. Furthermore, there is a significant mismatch in the content niche and aesthetic alignment compared to Natalie's preferences."
   },
   {
+    "job_id": "xvycVdVqLtPNTLGVAAAAAA==",
+    "job_title": "[Remote] Copywriter",
+    "employer_name": "ActiveCampaign",
+    "employer_logo": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://activecampaign.com&size=128",
+    "employer_website": "https://www.activecampaign.com",
+    "job_publisher": "Hirequorum",
+    "job_employment_type": "Full-time",
+    "job_employment_types": [
+      "FULLTIME"
+    ],
+    "job_apply_link": "https://hirequorum.liveblog365.com/job/remote-copywriter-14",
+    "job_apply_is_direct": false,
+    "apply_options": [
+      {
+        "apply_link": "https://hirequorum.liveblog365.com/job/remote-copywriter-14",
+        "is_direct": false,
+        "publisher": "Hirequorum"
+      }
+    ],
+    "job_description": "Note: The job is a remote job and is open to candidates in USA. Precondo is a forward-thinking real estate company specializing in pre-construction condos across Canada. As a Copywriter, you will craft compelling, persuasive, and brand-aligned content that resonates with our audience and drives engagement across multiple channels.\nResponsibilities\n\u2022 Write clear, engaging, and persuasive copy for websites, ads, social media, and email campaigns\n\u2022 Collaborate with the marketing and design teams to deliver impactful campaigns\n\u2022 Adapt messaging for different audiences and platforms while maintaining brand voice\n\u2022 Research to ensure accuracy and relevancy in content\n\u2022 Edit and proofread copy to ensure consistency, clarity, and high standards\n\u2022 Stay current with real estate industry trends, marketing best practices, and digital content styles\n\nSkills\n\u2022 Bachelor's degree in Communications, Marketing, English, or related field (preferred)\n\u2022 1\u20133 years of experience in copywriting or digital marketing\n\u2022 Exceptional writing, editing, and proofreading skills\n\u2022 Ability to create engaging, audience-focused content that converts\n\u2022 Familiarity with SEO principles is a plus\n\u2022 Strong time-management skills and ability to work independently in a remote environment\nBenefits\n\u2022 Flexible, fully remote work environment.\n\u2022 Opportunity to grow within a fast-scaling company.\n\u2022 Collaborative and supportive team culture.\n\nCompany Overview\n\u2022 Precondo offers construction services for residential developments. It was founded in 2015, and is headquartered in Mississauga, Ontario, CAN, with a workforce of 11-50 employees. Its website is http://precondo.ca.",
+    "job_is_remote": true,
+    "job_posted_at": "2 days ago",
+    "job_posted_at_timestamp": 1779148800,
+    "job_posted_at_datetime_utc": "2026-05-19T00:00:00.000Z",
+    "job_location": "Anywhere",
+    "job_city": null,
+    "job_state": null,
+    "job_country": null,
+    "job_latitude": null,
+    "job_longitude": null,
+    "job_benefits": null,
+    "job_benefits_strings": null,
+    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DxvycVdVqLtPNTLGVAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+    "job_salary": null,
+    "job_salary_string": "3,364\u20133,961 a month",
+    "job_min_salary": 3364,
+    "job_max_salary": 3961,
+    "job_salary_period": "MONTH",
+    "job_highlights": {},
+    "job_onet_soc": null,
+    "job_onet_job_zone": null,
+    "employer_reviews": null,
+    "fit_score": 20,
+    "evaluation_reason": "This role is a poor fit primarily due to the complete mismatch in content niche (real estate vs. wellness/personal development), the critical time zone conflict (USA/Canada vs. British Time Zone), and the aesthetic/quality standard divergence from Natalie's brand vision."
+  },
+  {
     "job_id": "aTFYRWhm1ZyOexczAAAAAA==",
     "job_title": "Remote Copywriter: Craft Impactful, On-Brand Campaigns",
     "employer_name": "Kids Creek Children\u2019s Clinic",
@@ -8581,6 +8717,58 @@
     "employer_reviews": null,
     "fit_score": 18,
     "evaluation_reason": "The job is a poor fit due to the explicit US-based remote requirement conflicting with a British time zone preference, and a complete mismatch in content niche (deep tech/AI vs. wellness/personal development) and brand aesthetic, despite strong transferable copywriting skills."
+  },
+  {
+    "job_id": "UOTnKQuu00mZFjN1AAAAAA==",
+    "job_title": "Copywriter, Associate",
+    "employer_name": "Sundayy",
+    "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCkwkW-b4b1XlJBsK5Hfpul1lU1YDNBYqWnwNo&s=0",
+    "employer_website": "https://www.sundayy.com",
+    "job_publisher": "BeBee",
+    "job_employment_type": "Full-time",
+    "job_employment_types": [
+      "FULLTIME"
+    ],
+    "job_apply_link": "https://bebee.com/us/jobs/copywriter-associate-sundayy--theirstack-678384591",
+    "job_apply_is_direct": false,
+    "apply_options": [
+      {
+        "apply_link": "https://bebee.com/us/jobs/copywriter-associate-sundayy--theirstack-678384591",
+        "is_direct": false,
+        "publisher": "BeBee"
+      }
+    ],
+    "job_description": "About The Company\nGolden Pet Brands is a leading innovator in the pet industry, dedicated to enhancing the lives of pets and their owners through high-quality products, educational content, and engaging marketing initiatives. With a commitment to excellence and a passion for pet wellness, the company has established itself as a trusted name in the industry.\n\nGolden Pet\n\nBrands values creativity, collaboration, and a customer-centric approach, striving to deliver solutions that foster healthier, happier pets and stronger bonds between pets and their families.\nAbout The Role We are seeking a talented and motivated Associate Copywriter to join our dynamic team remotely, with the possibility of working from our offices in El Segundo, CA, or North Hollywood, CA. In this role, you will be responsible for creating compelling, persuasive, and engaging copy across various marketing channels.\n\nYour work will directly contribute to revenue growth and brand awareness, supporting our mission to be a leader in the pet industry. The ideal candidate will possess strong writing skills, a keen understanding of consumer psychology, and the ability to manage multiple projects efficiently. This position offers an exciting opportunity to develop your craft in a fast-paced environment while making a tangible impact on the company's success.\n\nQualifications\n\n\u2022 Minimum of 1+ years of professional, high-output creative writing or communications experience\n\n\u2022 Sales or direct response copywriting experience preferred\n\n\u2022 Extensive research skills utilizing primary sources\n\n\u2022 Ability to produce over 1,000 words daily in a fast-paced environment\n\n\u2022 Willingness to accept and apply constructive feedback\n\n\u2022 Strong multitasking skills to handle multiple projects simultaneously\n\n\u2022 Eagerness to learn obsessively about consumer psychology, the pet industry, and high-performing copywriting techniques\n\n\u2022 Bachelor\u2019s Degree preferred, major in Journalism, English, Creative Writing, Screenwriting, Marketing, or Communication\n\nResponsibilities\n\n\u2022 Develop engaging, persuasive, and warm copy for various marketing channels, including email campaigns, websites, print materials, and social media\n\n\u2022 Support the email list with compelling content and sales emails aimed at driving revenue\n\n\u2022 Write and edit content for brand order pages, upsell pages, and video scripts\n\n\u2022 Execute monthly email and text marketing campaigns, focusing on revenue generation\n\n\u2022 Collaborate with colleagues to review, edit, and proofread all written materials to ensure quality and consistency\n\n\u2022 Conduct thorough research to inform content creation, utilizing primary sources and industry insights\n\n\u2022 Manage multiple projects efficiently, meeting deadlines and maintaining high standards\n\n\u2022 Participate in ongoing learning to refine copywriting skills and stay updated on industry trends\n\nBenefits\n\n\u2022 Comprehensive healthcare coverage, with 100% premiums paid for medical, dental, and vision plans for employees\n\n\u2022 Annual performance-based bonus\n\n\u2022 Matching up to 3.5% of 401(k) contributions to support your retirement savings\n\n\u2022 Six paid sick and mental health days, along with access to an Employee Assistance Program\n\n\u2022 Free weekly yoga and meditation classes, promoting holistic well-being\n\n\u2022 Participation in the Employee Stock Ownership Plan (ESOP), allowing you to share in company growth\n\n\u2022 Reimbursements for personal cell phone and internet expenses for eligible employees\n\n\u2022 Opportunities for professional development through mentorship, training, and performance-based pay increases\n\n\u2022 Charity sponsorships supporting community initiatives, with over $9 million donated to date\n\n\u2022 Potential quarterly KPI bonuses based on performance\n\nEqual Opportunity\nGolden Pet Brands is an equal opportunity employer. We consider all qualified applicants for employment without regard to race, color, religion, sex, national origin, age, disability, sexual orientation, gender identity, or any other protected status. We are committed to fostering an inclusive and diverse workplace where everyone can thrive. We will also consider qualified applicants with criminal histories in a manner consistent with applicable laws.",
+    "job_is_remote": true,
+    "job_posted_at": "14 days ago",
+    "job_posted_at_timestamp": 1778112000,
+    "job_posted_at_datetime_utc": "2026-05-07T00:00:00.000Z",
+    "job_location": "Anywhere",
+    "job_city": null,
+    "job_state": null,
+    "job_country": null,
+    "job_latitude": null,
+    "job_longitude": null,
+    "job_benefits": [
+      "health_insurance",
+      "dental_coverage"
+    ],
+    "job_benefits_strings": [
+      "Health insurance",
+      "Dental insurance"
+    ],
+    "job_google_link": "https://www.google.com/search?ibp=htl;jobs&q&htidocid=UOTnKQuu00mZFjN1AAAAAA%3D%3D&hl=en-US&shem=rimspwouoe&shndl=37&shmd=H4sIAAAAAAAA_xXNsQrCMBCAYVz7BOJ0s9REBBedxEFwLc4lSY8kUu9CLmLzAL63cfnH7---q66_cqqfHAvmHi4i7KIpCDu4swVBk10AJrgx-xk351BKkpPWIrPyUkyJTjl-aSa0vOgnW_lnlGAyprlR4-G4X1Qiv10Pb5pMrRAJHtSOEwxNQPkByS8BmIgAAAA&shmds=v1_ATWGeePSt3MREEcg83H06PDosGQ_reYAJ3gciF83rz0QjJ1ufQ&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq&htidocid=UOTnKQuu00mZFjN1AAAAAA%3D%3D",
+    "job_salary": null,
+    "job_salary_string": null,
+    "job_min_salary": null,
+    "job_max_salary": null,
+    "job_salary_period": null,
+    "job_highlights": {},
+    "job_onet_soc": null,
+    "job_onet_job_zone": null,
+    "employer_reviews": null,
+    "fit_score": 15,
+    "evaluation_reason": "The Associate Copywriter role is a significant mismatch in terms of seniority, desired content niche (pet industry vs. human wellness/personal development), brand aesthetic, and likely time zone alignment, despite some overlap in core direct response and email copywriting skills."
   },
   {
     "job_id": "CmlmUZfYM9dM21PiAAAAAA==",
@@ -8742,9 +8930,9 @@
     ],
     "job_description": "Work Snapshot\n\nType: Hourly contract\n\nLocation: Remote\n\nCommitment: Project-based (~30+ hours/week)\n\nWhat You\u2019ll Be Doing\n\n\u2022 Build detailed personas and simulated digital environments across tools like Gmail, Slack, Calendar, WhatsApp, and Google Drive\n\n\u2022 Design complex tasks that challenge AI agents in reasoning, prioritization, and decision-making\n\n\u2022 Run AI agents through scenarios, evaluate performance, and guide improvements using structured hints\n\n\u2022 Create realistic situations involving scheduling conflicts, information overload, and competing priorities\n\n\u2022 Document scenarios, evaluations, and outcomes clearly using tools like Airtable and Crucible\n\nWhat We\u2019re Looking For\n\n\u2022 Strong experience in creating structured content, scenario design, or similar creative workflows\n\n\u2022 Strong written communication and high attention to detail\n\n\u2022 Creative thinking with the ability to design layered and realistic scenarios\n\n\u2022 Familiarity with structured tools such as JSON editors, Airtable, or similar platforms\n\n\u2022 Strong critical thinking skills with the ability to identify inconsistencies and assess information quality\n\n\u2022 Ability to work independently and manage workflows effectively\n\n\u2022 Strong experience in writing, content creation, UX writing, or related fields is a plus\n\n\u2022 Experience in multi-stakeholder coordination such as project management, consulting, or client-facing roles is a plus\n\n\u2022 Background in world-building, creative design, or simulation-based environments is a plus\n\n\u2022 Familiarity with technical or data tools such as JSON, SQL, Python, Jira, or Asana is a plus\n\nHow To Apply\n\n\u2022 Upload resume\n\n\u2022 Interview\n\n\u2022 Submit form",
     "job_is_remote": true,
-    "job_posted_at": "18 days ago",
-    "job_posted_at_timestamp": 1776384000,
-    "job_posted_at_datetime_utc": "2026-04-17T00:00:00.000Z",
+    "job_posted_at": null,
+    "job_posted_at_timestamp": null,
+    "job_posted_at_datetime_utc": null,
     "job_location": "Anywhere",
     "job_city": null,
     "job_state": null,
@@ -8764,7 +8952,7 @@
     "job_onet_job_zone": null,
     "employer_reviews": null,
     "fit_score": 15,
-    "evaluation_reason": "The job's core responsibilities focus on AI scenario design and evaluation, which fundamentally mismatches Natalie's expertise in strategic, conversion-focused copywriting for personal development and wellness brands. While remote and titled 'Copywriter,' the tasks do not align with her specialized skills or desired content niches."
+    "evaluation_reason": "The job's core responsibilities involve designing and evaluating AI agent scenarios, which does not align with Natalie's deep expertise in strategic conversion copywriting, funnel architecture, and launch management for human audiences. While the role is remote, the required 'writing' and 'content creation' are fundamentally different from her specialized skills and desired content niches."
   },
   {
     "job_id": "rV8IggKpjs15UXsOAAAAAA==",
@@ -10146,7 +10334,7 @@
     ],
     "job_description": "Agency healthcare client is seeking a Content Writer to work with their team. This is a 15-20 hour/week, fully remote, contract opportunity extending from June to August. Candidates must be willing to work EST hours.\n\nThe ideal candidate for this Content Writer role is a globally minded, highly adaptable communicator with deep experience in commercial healthcare.\n\nMust Have:\n-Background in commercial healthcare required\n-Strong understanding of how health systems operate\n-Demonstrated ability to adapt writing style based on market, region, and audience needs\n-Highly self-sufficient and proactive, with strong research skills\n-Excellent communication skills and ability to deliver clear, concise, and easily digestible content\n-Experience with both long-form and short-form writing\n\nKey Responsibilities:\n-Write and edit high-quality content for commercial healthcare audiences, including: Digital ads, Email campaigns, Landing pages, Blog posts, Social media content, Campaign copy and Long-form pieces such as ebooks\n-Conduct research to deeply understand the business, audience, and competitive landscape\n-Collaborate with internal stakeholders to ensure content meets strategic and stylistic guidelines\n-Work within established messaging documents and style guides to maintain consistency.\n\nNice to Have:\n-Bilingual or multilingual\n-Familiarity with Workfront is a plus; comfort using AI writing tools (Jasper, Copilot) is welcomed and supported.\n\nIn this position, you may have access to client or customer systems, confidential and/or proprietary information or data, including medical data.\n\nBenefits\nCreative Circle's Freelance Employee benefits package includes eligibility for Minimum Essential Coverage (MEC) medical plan, dental/vision/term life package, discount prescription program, critical illness, accident, tele-behavioral health, and 401(k) plan. Sick leave is provided to Candidates whose assignment work location is in a state or city subject to sick leave laws. A Minimum Value (MV) PPO medical plan, Employee Stock Purchase Plan, and paid holiday eligibility are based on length and dates of service.",
     "job_is_remote": true,
-    "job_posted_at": "4 days ago",
+    "job_posted_at": "5 days ago",
     "job_posted_at_timestamp": 1778889600,
     "job_posted_at_datetime_utc": "2026-05-16T00:00:00.000Z",
     "job_location": "Anywhere",
@@ -10174,7 +10362,7 @@
     "job_onet_job_zone": null,
     "employer_reviews": null,
     "fit_score": 15,
-    "evaluation_reason": "This role is a poor fit primarily due to the explicit requirement for 'commercial healthcare' experience, which contradicts your focus on personal development and wellness. Additionally, the need to work EST hours directly conflicts with your critical 'British Time Zone' constraint."
+    "evaluation_reason": "The job's requirement for a commercial healthcare background and EST working hours directly conflicts with Natalie's specific niche needs (personal development/wellness) and British time zone constraint, despite some alignment in core copywriting skills."
   },
   {
     "job_id": "RPTyJFv8xlrcC6elAAAAAA==",
@@ -10219,8 +10407,54 @@
     "job_onet_soc": null,
     "job_onet_job_zone": null,
     "employer_reviews": null,
-    "fit_score": 12,
-    "evaluation_reason": "While the role is remote and copy-focused, it's a critical mismatch for your content niche (B2B tech/SaaS vs. wellness/personal development) and explicitly restricts candidates to US/Canada, violating your British time zone constraint. The job also appears to have been posted two years ago, suggesting it's likely no longer available."
+    "fit_score": 15,
+    "evaluation_reason": "The role is a strong mismatch due to its explicit requirement for B2B tech/SaaS experience and US/Canada location, directly conflicting with Natalie's wellness/personal development niche and British time zone preference. While core copywriting skills align, the industry and geographic constraints make it unsuitable."
+  },
+  {
+    "job_id": "j1cHR2s-dTp9eLkqAAAAAA==",
+    "job_title": "Freelance Copywriter (Remote) - Farming / Agriculture",
+    "employer_name": "Theory SEO",
+    "employer_logo": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://theoryseo.com&size=128",
+    "employer_website": "https://theoryseo.com",
+    "job_publisher": "Indeed",
+    "job_employment_type": "Contractor",
+    "job_employment_types": [
+      "CONTRACTOR"
+    ],
+    "job_apply_link": "https://www.indeed.com/viewjob?jk=57494c439fffdd90",
+    "job_apply_is_direct": false,
+    "apply_options": [
+      {
+        "apply_link": "https://www.indeed.com/viewjob?jk=57494c439fffdd90",
+        "is_direct": false,
+        "publisher": "Indeed"
+      }
+    ],
+    "job_description": "Freelance Copywriter (Remote) - Farming / Agriculture\n\nJob Title: Freelance Copywriter\n\nCompany Overview:\n\nTheory SEO is a full-service SEO company located in Raleigh, NC, with clients in a variety of markets including automotive, startups, professional services, and more. As a small, dedicated, and high-performing team, we are committed to excelling in our field. Our mission is to educate on and share the best practices of SEO, with a vision to become the most trusted partner in the industry. We value autonomy, generosity, a strong work ethic, and data-driven decision-making.\n\nJob Summary:\n\nJoin Theory SEO as a freelance Remote Copywriter and work alongside our team to create quality, fresh, and uniquely insightful content for our client in the Farming and Agriculture niche. Your role will focus on translating your deep industry knowledge into engaging, SEO-friendly copy that resonates with agricultural audiences, answers their specific questions, and drives organic growth.\n\nKey Responsibilities:\n\n\u2022 Write high-quality, original, and insightful articles, blog posts, and web copy focused exclusively on farming, agriculture, and agribusiness.\n\n\u2022 Collaborate closely with our SEO team to seamlessly integrate targeted keywords and follow provided content briefs.\n\n\u2022 Conduct thorough industry research to ensure all content is factually accurate, up-to-date, and highly relevant to the agricultural sector.\n\n\u2022 Adapt writing tone and style to align with the client's brand voice and target audience.\n\n\u2022 Apply basic on-page SEO best practices to content (e.g., proper use of heading tags, clear formatting, optimal readability, etc.).\n\n\u2022 Review, edit, and revise content based on internal and client feedback.\n\nSkills and Qualifications:\n\n\u2022 Required: Demonstrated expertise and a deep, practical understanding of the Farming and Agriculture niche.\n\n\u2022 Exceptional writing, editing, and proofreading skills with a keen eye for detail.\n\n\u2022 Ability to work effectively and deliver results with minimal supervision, demonstrating a high degree of autonomy.\n\n\u2022 Understanding of how to write for the web, including basic SEO content principles.\n\n\u2022 Ability to meet deadlines consistently in a fast-paced, remote environment.\n\nExperience Requirements:\n\n\u2022 5+ years experience as a copywriter, content writer, content marketer, or agricultural journalist.\n\n\u2022 Must provide proven writing samples specifically within the Farming and Agriculture niche.\n\nEmployment Type:\n\n\u2022 Freelance, Contract\n\nLocation:\n\n\u2022 Remote position; candidates should be available during Eastern Time (ET) hours.\n\nApplication Process:\n\n\u2022 Interested candidates should submit their resume through Indeed. Please note: Including proven writing samples or a portfolio showcasing your work in the Farming and Agriculture niche is required for consideration.\n\nEqual Employment Opportunity Statement:\n\nAt Theory SEO, we celebrate diversity and are committed to creating an inclusive environment for all employees. We provide equal employment opportunities to all applicants and employees without regard to race, color, religion, sex, national origin, age, disability, or genetics. In addition to federal law requirements, Theory SEO complies with applicable state and local laws governing nondiscrimination in employment in every location in which the company has facilities. This policy applies to all terms and conditions of employment, including recruiting, hiring, placement, promotion, termination, layoff, recall, transfer, leaves of absence, compensation, and training. We welcome applications from all qualified individuals.\n\nApplication Question(s):\n\n\u2022 Farmers are notoriously good at spotting 'outsider' marketing. What are three specific words or phrases you avoid\u2014or lean into\u2014to ensure your copy feels authentic to someone who works the land every day?\"\n\n\u2022 Local farmers often rely on word-of-mouth and the 'neighbor test.' How do you write copy that builds that kind of communal trust when the brand itself might be new or remote?\n\n\u2022 Untechnical farmers are often 'risk-averse' rather than 'tech-avoidant.' How do you frame a new technical product to make it feel like a safe, dependable tool rather than a risky experiment?\n\nExperience:\n\n\u2022 Copywriting: 5 years (Preferred)\n\nWork Location: Remote",
+    "job_is_remote": true,
+    "job_posted_at": "23 days ago",
+    "job_posted_at_timestamp": 1777334400,
+    "job_posted_at_datetime_utc": "2026-04-28T00:00:00.000Z",
+    "job_location": "Anywhere",
+    "job_city": null,
+    "job_state": null,
+    "job_country": null,
+    "job_latitude": null,
+    "job_longitude": null,
+    "job_benefits": null,
+    "job_benefits_strings": null,
+    "job_google_link": "https://www.google.com/search?ibp=htl;jobs&q&htidocid=j1cHR2s-dTp9eLkqAAAAAA%3D%3D&hl=en-US&shem=rimspwouoe&shndl=37&shmd=H4sIAAAAAAAA_xWOsQrCMBBAce0n6HKjCjYiuOgkYgURBKtzSeORRtJcuFyx_SM_07q84Q2Pl30n2bVgRK-DQThSHD7sBBnmd2xJcAErKDS3LlhQcLDsTOelYxz9hWpIqNk0QAHORNbjdN-IxLRTKiWf2yRanMkNtYoC1tSrN9Xpjyo1mjF6LVhttus-j8EuZ48GiQcoTzdwAZ5hXHlBOUYw_QCkGtlMqwAAAA&shmds=v1_ATWGeePXDkXbXiotjnz1weK9VQffRkkyqkU5rngVHwAI4mGioQ&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq&htidocid=j1cHR2s-dTp9eLkqAAAAAA%3D%3D",
+    "job_salary": null,
+    "job_salary_string": null,
+    "job_min_salary": null,
+    "job_max_salary": null,
+    "job_salary_period": null,
+    "job_highlights": {},
+    "job_onet_soc": null,
+    "job_onet_job_zone": null,
+    "employer_reviews": null,
+    "fit_score": 15,
+    "evaluation_reason": "The role has critical mismatches in required niche expertise (Farming/Agriculture vs. Personal Development/Wellness) and time zone availability (Eastern Time vs. British Time Zone), making it a poor fit despite being remote and a copywriting role."
   },
   {
     "job_id": "U8Jk_S-BY1DFr5ujAAAAAA==",
@@ -11172,52 +11406,6 @@
     "evaluation_reason": "While core copywriting skills align and the role is remote, the job's requirement for U.S. residency directly contradicts Natalie's British Time Zone and location constraints. Additionally, the job provides no alignment on content niche, quality standards, or aesthetic preferences."
   },
   {
-    "job_id": "j1cHR2s-dTp9eLkqAAAAAA==",
-    "job_title": "Freelance Copywriter (Remote) - Farming / Agriculture",
-    "employer_name": "Theory SEO",
-    "employer_logo": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://theoryseo.com&size=128",
-    "employer_website": "https://theoryseo.com",
-    "job_publisher": "Indeed",
-    "job_employment_type": "Contractor",
-    "job_employment_types": [
-      "CONTRACTOR"
-    ],
-    "job_apply_link": "https://www.indeed.com/viewjob?jk=57494c439fffdd90",
-    "job_apply_is_direct": false,
-    "apply_options": [
-      {
-        "apply_link": "https://www.indeed.com/viewjob?jk=57494c439fffdd90",
-        "is_direct": false,
-        "publisher": "Indeed"
-      }
-    ],
-    "job_description": "Freelance Copywriter (Remote) - Farming / Agriculture\n\nJob Title: Freelance Copywriter\n\nCompany Overview:\n\nTheory SEO is a full-service SEO company located in Raleigh, NC, with clients in a variety of markets including automotive, startups, professional services, and more. As a small, dedicated, and high-performing team, we are committed to excelling in our field. Our mission is to educate on and share the best practices of SEO, with a vision to become the most trusted partner in the industry. We value autonomy, generosity, a strong work ethic, and data-driven decision-making.\n\nJob Summary:\n\nJoin Theory SEO as a freelance Remote Copywriter and work alongside our team to create quality, fresh, and uniquely insightful content for our client in the Farming and Agriculture niche. Your role will focus on translating your deep industry knowledge into engaging, SEO-friendly copy that resonates with agricultural audiences, answers their specific questions, and drives organic growth.\n\nKey Responsibilities:\n\n\u2022 Write high-quality, original, and insightful articles, blog posts, and web copy focused exclusively on farming, agriculture, and agribusiness.\n\n\u2022 Collaborate closely with our SEO team to seamlessly integrate targeted keywords and follow provided content briefs.\n\n\u2022 Conduct thorough industry research to ensure all content is factually accurate, up-to-date, and highly relevant to the agricultural sector.\n\n\u2022 Adapt writing tone and style to align with the client's brand voice and target audience.\n\n\u2022 Apply basic on-page SEO best practices to content (e.g., proper use of heading tags, clear formatting, optimal readability, etc.).\n\n\u2022 Review, edit, and revise content based on internal and client feedback.\n\nSkills and Qualifications:\n\n\u2022 Required: Demonstrated expertise and a deep, practical understanding of the Farming and Agriculture niche.\n\n\u2022 Exceptional writing, editing, and proofreading skills with a keen eye for detail.\n\n\u2022 Ability to work effectively and deliver results with minimal supervision, demonstrating a high degree of autonomy.\n\n\u2022 Understanding of how to write for the web, including basic SEO content principles.\n\n\u2022 Ability to meet deadlines consistently in a fast-paced, remote environment.\n\nExperience Requirements:\n\n\u2022 5+ years experience as a copywriter, content writer, content marketer, or agricultural journalist.\n\n\u2022 Must provide proven writing samples specifically within the Farming and Agriculture niche.\n\nEmployment Type:\n\n\u2022 Freelance, Contract\n\nLocation:\n\n\u2022 Remote position; candidates should be available during Eastern Time (ET) hours.\n\nApplication Process:\n\n\u2022 Interested candidates should submit their resume through Indeed. Please note: Including proven writing samples or a portfolio showcasing your work in the Farming and Agriculture niche is required for consideration.\n\nEqual Employment Opportunity Statement:\n\nAt Theory SEO, we celebrate diversity and are committed to creating an inclusive environment for all employees. We provide equal employment opportunities to all applicants and employees without regard to race, color, religion, sex, national origin, age, disability, or genetics. In addition to federal law requirements, Theory SEO complies with applicable state and local laws governing nondiscrimination in employment in every location in which the company has facilities. This policy applies to all terms and conditions of employment, including recruiting, hiring, placement, promotion, termination, layoff, recall, transfer, leaves of absence, compensation, and training. We welcome applications from all qualified individuals.\n\nApplication Question(s):\n\n\u2022 Farmers are notoriously good at spotting 'outsider' marketing. What are three specific words or phrases you avoid\u2014or lean into\u2014to ensure your copy feels authentic to someone who works the land every day?\"\n\n\u2022 Local farmers often rely on word-of-mouth and the 'neighbor test.' How do you write copy that builds that kind of communal trust when the brand itself might be new or remote?\n\n\u2022 Untechnical farmers are often 'risk-averse' rather than 'tech-avoidant.' How do you frame a new technical product to make it feel like a safe, dependable tool rather than a risky experiment?\n\nExperience:\n\n\u2022 Copywriting: 5 years (Preferred)\n\nWork Location: Remote",
-    "job_is_remote": true,
-    "job_posted_at": "15 days ago",
-    "job_posted_at_timestamp": 1777334400,
-    "job_posted_at_datetime_utc": "2026-04-28T00:00:00.000Z",
-    "job_location": "Anywhere",
-    "job_city": null,
-    "job_state": null,
-    "job_country": null,
-    "job_latitude": null,
-    "job_longitude": null,
-    "job_benefits": null,
-    "job_benefits_strings": null,
-    "job_google_link": "https://www.google.com/search?ibp=htl;jobs&q&htidocid=j1cHR2s-dTp9eLkqAAAAAA%3D%3D&hl=en-US&shem=epsd1,rimspwouoe&shndl=37&shmd=H4sIAAAAAAAA_xWOsQrCMBBAce0n6HKjCjYiuOgkYgURBKtzSeORRtJcuFyx_SM_07q84Q2Pl30n2bVgRK-DQThSHD7sBBnmd2xJcAErKDS3LlhQcLDsTOelYxz9hWpIqNk0QAHORNbjdN-IxLRTKiWf2yRanMkNtYoC1tSrN9Xpjyo1mjF6LVhttus-j8EuZ48GiQcoTzdwAZ5hXHlBOUYw_QCkGtlMqwAAAA&shmds=v1_ATWGeePXDkXbXiotjnz1weK9VQffRkkyqkU5rngVHwAI4mGioQ&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq&htidocid=j1cHR2s-dTp9eLkqAAAAAA%3D%3D",
-    "job_salary": null,
-    "job_salary_string": null,
-    "job_min_salary": null,
-    "job_max_salary": null,
-    "job_salary_period": null,
-    "job_highlights": {},
-    "job_onet_soc": null,
-    "job_onet_job_zone": null,
-    "employer_reviews": null,
-    "fit_score": 10,
-    "evaluation_reason": "The job's exclusive focus on the Farming/Agriculture niche directly contradicts your desired content areas and required expertise. Additionally, the need for Eastern Time (ET) availability clashes with your British Time Zone constraint, making the role impractical."
-  },
-  {
     "job_id": "YO_BwR48RLvx36O_AAAAAA==",
     "job_title": "Ad Copywriting Assistant (Facebook, No Experience)",
     "employer_name": "Work from Anywhere Board",
@@ -11382,7 +11570,7 @@
     ],
     "job_description": "Begin your journey into remote content creation with this entry-level Virtual Product Copywriter opportunity. No prior experience is necessary to qualify. This role centers on developing engaging product narratives and marketing materials that highlight product advantages to digital shoppers. Perfect for those with natural writing abilities, you'll receive full onboarding and mentorship to strengthen your copywriting expertise while working remotely.\n\nKey Responsibilities:In this starter position, you'll assist organizations in building connections with their target audiences through well-crafted written materials. Day-to-day tasks include producing bi-weekly blog content, uploading posts across social channels, engaging with audiences via YouTube and Twitter comments, and handling customer email correspondence.\n\nEmployment Terms:\n\nOngoing, with no predetermined endpoint.\n\nCompensation:\n\n$35 hourly, adjusted based on assignment difficulty and your growing skill level.\n\nRequired Qualifications and Experience:\n\nAccess to a computer or mobile device.\n\nComfort managing tasks autonomously with minimal oversight.\n\nProficiency in written and spoken English.\n\nDemonstrated aptitude for adhering to complex directions.\n\nWillingness to dedicate a minimum of 5 hours monthly to assignments.\n\nStable high-speed internet service.\n\nWeekly Time Commitment:\n\nAdjustable scheduling based on your availability.\n\nGeographic Requirements:\n\nFully remote position, based within the United States.\n\nWe are significantly scaling our remote workforce in this area. Submit your application immediately if you're prepared to begin promptly.",
     "job_is_remote": true,
-    "job_posted_at": "2 days ago",
+    "job_posted_at": "3 days ago",
     "job_posted_at_timestamp": 1779062400,
     "job_posted_at_datetime_utc": "2026-05-18T00:00:00.000Z",
     "job_location": "Anywhere",
@@ -11404,7 +11592,7 @@
     "job_onet_job_zone": null,
     "employer_reviews": null,
     "fit_score": 5,
-    "evaluation_reason": "This job is an entry-level position for product copywriting, explicitly stating 'no experience necessary,' which is completely misaligned with Natalie's 13+ years of strategic, high-level conversion copywriting experience. Furthermore, the role requires applicants to be based in the United States, directly conflicting with her British Time Zone and Portugal residency constraint."
+    "evaluation_reason": "This entry-level product copywriting role is an extreme mismatch for Natalie's extensive 13+ years of strategic funnel and launch copywriting experience, and it directly contradicts her British time zone requirement by being US-based."
   },
   {
     "job_id": "SETZcLNchg8gVK58AAAAAA==",
@@ -12302,9 +12490,9 @@
     ],
     "job_description": "Have you ever stumbled upon a mobile game that swept you off your feet, leaving you eager to explore every level? As a Beginner Copywriter specializing in long-form content, your journey will begin with testing and playing these captivating apps, diving deep into their mechanics and narratives. This role invites you to analyze gameplay experiences and convey your findings through engaging copy that resonates with fellow gamers. Discover the intricacies of mobile gaming while honing your writing skills in a dynamic environment, where your insights can help broaden the horizons of another player's adventure.\n\nRoles: In this role, you\u2019ll explore mobile apps directly on your smartphone or tablet to understand how they function in real-world use. You\u2019ll provide brief, honest feedback describing how intuitive the app feels, how it performs, and any areas where it could be improved.\n\nContract length: No fixed term \u2014 continue at your own pace and convenience.\n\nRate: $35 per hour.\n\nSkills/background needed: You\u2019ll need access to a smartphone or tablet with stable internet. Comfort with downloading apps, following simple instructions, and managing your own time is key. Expect to spend around 5 hours per week. No experience required \u2014 a great starting point for beginners in remote work.\n\nLocation: Remote work worldwide (United States preferred).\n\nThis opportunity offers a relaxed way to get involved in app evaluation. You\u2019ll play a role in improving everyday mobile tools while enjoying the flexibility to work from anywhere, whenever it fits your schedule.\n\nApply today to begin turning your insights into valuable input that helps build better apps for everyone.\n\nApply Now",
     "job_is_remote": true,
-    "job_posted_at": "9 days ago",
-    "job_posted_at_timestamp": 1778457600,
-    "job_posted_at_datetime_utc": "2026-05-11T00:00:00.000Z",
+    "job_posted_at": "3 days ago",
+    "job_posted_at_timestamp": 1779062400,
+    "job_posted_at_datetime_utc": "2026-05-18T00:00:00.000Z",
     "job_location": "Anywhere",
     "job_city": null,
     "job_state": null,
@@ -12324,7 +12512,7 @@
     "job_onet_job_zone": null,
     "employer_reviews": null,
     "fit_score": 5,
-    "evaluation_reason": "This job is for a 'Beginner Copywriter' evaluating mobile apps, which is a severe mismatch for Natalie's 13+ years of strategic, high-level conversion copywriting for 6-8 figure transformational brands in wellness and personal development. While remote, it contradicts her experience, niche, quality standards, and skill level entirely."
+    "evaluation_reason": "This role as a 'Beginner Copywriter' for mobile app reviews is a severe mismatch for your 13+ years of strategic conversion copywriting expertise for 6-8 figure transformational brands and high-intellect content niches. Your experience and desired scope are far beyond what this entry-level position offers."
   },
   {
     "job_id": "TeNjvUFZqfIL5eo6AAAAAA==",
